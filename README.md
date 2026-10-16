@@ -14,14 +14,16 @@ Vexland_Manhunt brings match setup, team roles, the opening chase, tracking, pro
 
 #### Downloads and compatibility
 
-| Plugin release | Download | Target environment |
-| --- | --- | --- |
-| **1.9.11** — current supplied build | [VexLandManhunt-1.9.11-.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.9.11/VexLandManhunt-1.9.11-.jar) | Paper **1.21.11**, Java **21** |
-| **1.6.4** — earlier build | [VexLandManhunt-1.6.4.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.6.4/VexLandManhunt-1.6.4.jar) | Paper **1.21.11**, Java **21** |
+| File / version | Download | Purpose |
+|---|---|---|
+| **1.13.1 — current** | [VexLandManhunt-1.13.1.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.13.1/VexLandManhunt-1.13.1.jar) | Manhunt plugin by Bardiya and Ali |
+| **GrimAC 2.3.73 — required** | [grimac-bukkit-2.3.73.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.13.1/grimac-bukkit-2.3.73.jar) | Separate third-party anti-cheat dependency |
+| 1.9.11 — archived | [VexLandManhunt-1.9.11-.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.9.11/VexLandManhunt-1.9.11-.jar) | Previous Manhunt build |
+| 1.6.4 — archived | [VexLandManhunt-1.6.4.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.6.4/VexLandManhunt-1.6.4.jar) | Earlier Manhunt build |
 
-**1.6.4 and 1.9.11 are plugin version numbers.** Both supplied builds declare Minecraft API `1.21.11` and Java 21 class files. These are server plugins for Minecraft Java Edition. [Paper's version-specific Java requirements](https://docs.papermc.io/paper/getting-started/) also list Java 21 for Paper 1.21.11. No additional plugin dependency is declared in the supplied descriptors.
+**Target: Paper 1.21.11, Java 21.** The numbers 1.6.4, 1.9.11 and 1.13.1 are plugin releases, not supported Minecraft versions. In 1.13.1, GrimAC is a hard dependency and the bridge requires the 2.3.73 API. Download **both current JARs**. These are server plugins; players do not install them in a client mods folder.
 
-These are **original personal-server builds with creator-specific elevated administrative access**, preserved exactly as supplied. The guide below covers the public Manhunt controls.
+These are original personal-server builds with creator-specific elevated administrative access, preserved exactly as supplied. This manual covers the public Manhunt controls.
 
 #### The Manhunt experience
 
@@ -36,35 +38,26 @@ These are **original personal-server builds with creator-specific elevated admin
 - **Localized guides:** Runner, Hunter, and administrator books explain objectives, tracker use, deaths, setup, and commands. Version 1.9.11 gives players a role-aware guide through `/mhhelp`.
 - **Paper Anti-Xray integration:** menu controls configure Paper's world-level protection; changes need a server restart to take effect.
 
-#### What is new in 1.9.11?
+#### What is new in 1.13.1?
 
-These changes were identified by comparing the two supplied builds, including their metadata, message resources, and compiled classes.
+Compared with the supplied 1.9.11 build:
 
-| Addition or change | Behavior in 1.9.11 |
-| --- | --- |
-| **Smart Hunter Kit V3** | Adaptive respawn kits consider Runner equipment, teams, and match context. The system aims to keep Hunter kits below the Runner equipment average and can be toggled with `/mhkit` or the GUI. |
-| **Automatic Overworld Spawn** | Move world spawn near an eligible Overworld Runner at a chosen interval: off, 5, 10, 15, 20, or 30 minutes. The system selects a safe surface candidate and skips unsuitable cases. |
-| **Pause and resume** | `/mhpause` freezes gameplay and match-related timers, tracking, and spawn movement; `/mhresume` continues. Paused time is offset from active match timing. |
-| **Restart/crash recovery** | A recovery layer restores match state, roles, tracker targets, progress, reward/death timers, and reconnect state using primary/backup snapshots, periodic saves, and shutdown saves. |
-| **Runner reconnect settings** | A configurable reconnect window replaces the earlier fixed 60-minute window. Fresh default: 15 minutes, with 10 seconds of rejoin protection. Server downtime is excluded; expiry can convert the Runner to a Hunter or finish the match. |
-| **Expanded administration** | Change roles during a live match while preserving the final Runner; selected-player actions, team teleport/freeze, runtime resynchronization, and shortcuts improve match management. |
-| **Confirmed settings reset** | Two clicks within eight seconds apply Smart Kit ON, auto spawn every 15 minutes, and reconnect 15 minutes. This differs from a fresh installation's auto-spawn OFF default. |
-| **VexAC 3.0** | Movement, combat, AutoClick, velocity/knockback, and world-building checks; group/master controls, evidence logging, administrator alerts, and environment/lag exemptions. |
-| **Ultra Deep Debug v4** | `/mhdebug` provides state-machine, GUI, synthetic kit/stress, language-placeholder, recovery round-trip, and integrity diagnostics. |
-| **Expanded displays** | More progression detail, dragon-health visuals, MVP/damage/distance results, and TAB ping information. |
-| **Command changes** | Adds `/mhkit`, `/mhspawn`, `/mhpause`, `/mhresume`, and `/mhdebug`; removes `/mhnone`; makes `/mhhelp` player/admin aware and adds `/trash` aliases. |
-| **More localized messages** | Translation resources expand from 446 message keys per language to 683. |
-
-VexAC's packaged checks cover Fly, Speed, Timer, Phase, Step, NoSlow, GroundSpoof, Reach, KillAura, AimAssist, wall-hit, BadPackets, AutoClick timing patterns, altered knockback, Scaffold, Tower, FastPlace, Nuker, and block reach. Its UI uses a monitor-only label, while compiled code also contains kick paths; confirm the actual moderation behavior on a test server before relying on that label. The earlier build contains legacy Anti AutoClick and Anti Fly controls instead.
+- **Ghost spectators:** a separate role, administrator assignment, protected flight, hidden players, saved/restored state and a paginated participant-teleport menu.
+- **Redesigned control center:** categorized menus, explicit four-way role selection, named target picker, reconnect-duration selector, Classic/Fast/Hardcore/Custom presets and dedicated 30-second confirmation screens.
+- **GrimAC integration:** required GrimAC 2.3.73 replaces the active VexAC startup path. Master, five check groups, alerts and monitor/enforcement controls are exposed in the GUI. Paper Anti-Xray remains independent.
+- **New Smart Hunter Kit planner:** adapts equipment and supplies to Runner gear/enchantments, nearest Runner, team numbers, distance, dimension and terrain. It preserves stronger existing gear, avoids duplicate tools and limits consumable top-ups with a 30-second history. This is not a guarantee of a fixed gear gap or measured balance.
+- **Validated recovery:** SHA-256-sealed snapshots, schema/state checks and valid-backup fallback; invalid or newer-format snapshots are preserved without overwriting them. Spectator state has its own persistence.
+- **Expanded messages:** translated keys grow from 683 to 762 per bundled translation, still across the same ten in-game languages. Two new public commands are registered: `/mspectator <player>` and `/mhspectate`.
+- **Reset fallback:** if no safe surface near Overworld spawn is found, reset can skip that teleport instead of forcing it.
 
 #### Start using `/mhgui`
 
-1. Install one supplied JAR on a Paper 1.21.11 / Java 21 server and restart fully.
+1. Install both VexLandManhunt-1.13.1.jar and grimac-bukkit-2.3.73.jar on a Paper 1.21.11 / Java 21 server and restart fully.
 2. Join as a trusted OP and run **`/mhgui`**.
-3. Open **Player Roles** and click participant heads to assign at least one Runner and Hunter.
-4. Review **Friendly Fire**, **Language**, **Smart Hunter Kit** and **Auto World Spawn**; switch off **Server Freeze**.
-5. Click **Start Match**. Hunters right-click their compass to choose a Runner after release.
-6. Use Pause/Resume in 1.9.11 or Reset Match to prepare another round.
+3. In **Player Roles**, select each player, then choose Runner, Hunter, Spectator or No Team. Assign at least one Runner and Hunter.
+4. Review **Match Settings**, **Global Language** and **GrimAC Security**. Switch off **Server Freeze**.
+5. Open **Match Controls → Start Match**. Hunters right-click their compass to choose a Runner after release.
+6. Spectators use their compass or `/mhspectate`; administrators use Match Controls for Pause/Resume and confirmed Reset Match.
 
 **[Read the complete GUI guide and command reference](https://github.com/FarlandGame/Vexland_Manhunt#full-setup-and-use-with-mhgui)**
 
