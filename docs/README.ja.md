@@ -14,16 +14,15 @@ Vexland_Manhuntは、試合の準備、チームの役割、追跡の開始、�
 
 #### ダウンロードと互換性
 
-| ファイル / バージョン | ダウンロード | 用途 |
+| 提供されたリリース | ダウンロード | インストール |
 |---|---|---|
-| **1.13.1 — 現行版** | [VexLandManhunt-1.13.1.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.13.1/VexLandManhunt-1.13.1.jar) | Bardiya と Ali が制作した Manhunt プラグイン |
-| **GrimAC 2.3.73 — 必須** | [grimac-bukkit-2.3.73.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.13.1/grimac-bukkit-2.3.73.jar) | 別途必要なサードパーティ製アンチチート |
-| 1.9.11 — アーカイブ版 | [VexLandManhunt-1.9.11-.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.9.11/VexLandManhunt-1.9.11-.jar) | 以前の Manhunt ビルド |
-| 1.6.4 — アーカイブ版 | [VexLandManhunt-1.6.4.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.6.4/VexLandManhunt-1.6.4.jar) | さらに古い Manhunt ビルド |
+| **2.0.0 — 統合パッケージ** | [VexLandManhunt-2.0.0.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v2.0.0/VexLandManhunt-2.0.0.jar) | GrimAC 2.3.73 を統合した **1 つの JAR** |
+| **1.13.1 — 観戦機能ブランチ** | [リリースと両方の JAR](https://github.com/FarlandGame/Vexland_Manhunt/releases/tag/v1.13.1) | Manhunt と別個の GrimAC 2.3.73 |
+| 1.9.11 / 1.6.4 — 旧版 | [全リリース](https://github.com/FarlandGame/Vexland_Manhunt/releases) | 過去の単体ビルド |
 
-**対象環境：Paper 1.21.11、Java 21。** 1.6.4、1.9.11、1.13.1 はプラグインのリリース番号であり、対応する Minecraft のバージョン番号ではありません。1.13.1 では GrimAC が必須依存関係となり、連携ブリッジには 2.3.73 API が必要です。**現行版の JAR を両方**ダウンロードしてください。サーバープラグインのため、プレイヤーがクライアントの mods フォルダーに入れる必要はありません。
+**Paper 1.21.11 / Java 21。** これらはサーバープラグインであり、クライアント用 MOD ではありません。提供ファイル名と公開リリースは **2.0.0** ですが、変更されていない記述子は **`1.9.11-grim.1`** と記載し、ゲームプレイの基盤を 1.9.11 としています。この統合パッケージには、専用の Spectator ロール、`/mspectator <player>`、`/mhspectate`、カテゴリ別メニュー、その他の 1.13.1 追加機能は**含まれません**。これらが必要な場合は、別途掲載している 1.13.1 ブランチを引き続き使用してください。
 
-これらは個人サーバー向けのオリジナルビルドで、制作者固有の高度な管理権限を含め、提供された状態のまま保存されています。本マニュアルでは公開 Manhunt 操作を説明します。
+制作者固有の昇格管理アクセスを含む、個人サーバー向けのオリジナルビルドを提供されたまま保存しています。本ガイドは公開操作を説明します。
 
 #### Manhuntの体験
 
@@ -38,26 +37,23 @@ Vexland_Manhuntは、試合の準備、チームの役割、追跡の開始、�
 - **多言語ガイド：** ランナー、ハンター、管理者向けの本で、目標、追跡用コンパスの使い方、死亡、準備、コマンドを説明します。1.9.11では、`/mhhelp`でプレイヤーの役割に応じたガイドが渡されます。
 - **Paper Anti-Xrayとの連携：** メニューからPaperのワールド単位の保護を設定します。変更を反映するにはサーバーの再起動が必要です。
 
-#### 1.13.1 の新機能
+#### 提供された 2.0.0 パッケージで変わったこと
 
-提供された 1.9.11 ビルドからの変更点：
-
-- **ゴースト観戦者：** 管理者が割り当てる独立した役割。保護された飛行、他プレイヤーからの非表示、状態の保存と復元、ページ分けされた参加者へのテレポートメニューを備えます。
-- **刷新されたコントロールセンター：** カテゴリー別メニュー、明示的な四種類の役割選択、名前付きの対象選択、再接続猶予時間の選択、Classic/Fast/Hardcore/Custom プリセット、専用の 30 秒確認画面。
-- **GrimAC 連携：** 必須の GrimAC 2.3.73 が、従来有効だった VexAC の起動経路を置き換えます。GUI から全体、五つの検査グループ、通知、監視/適用モードを操作できます。Paper Anti-Xray は独立しています。
-- **新しい Smart Hunter Kit プランナー：** Runner の装備とエンチャント、最寄りの Runner、チーム人数、距離、ディメンション、地形に応じて装備と補給を調整します。既存のより強い装備を保持し、道具の重複を避け、30 秒間の履歴で消耗品の補充量を制限します。固定の装備差や実測されたバランスを保証するものではありません。
-- **検証付き復旧：** SHA-256 で封印したスナップショット、スキーマ/状態チェック、有効なバックアップへのフォールバックを使用します。無効または新しい形式のスナップショットは上書きせず保持します。観戦者の状態は別途永続化します。
-- **メッセージの拡充：** 各同梱翻訳のキー数は 683 から 762 に増えました。ゲーム内の言語は従来と同じ十言語です。新たに二つの公開コマンド `/mspectator <player>` と `/mhspectate` が登録されています。
-- **リセット時の代替動作：** オーバーワールドのスポーン地点付近に安全な地面が見つからない場合、無理にテレポートせず、その処理を省略できます。
+- **1 つに統合された JAR：** Manhunt、変更版 GrimAC 2.3.73、同梱の PacketEvents が 1 つの Bukkit プラグインインスタンスを共有します。このパッケージでは GrimAC や PacketEvents を別途インストールする必要はありません。記述子は `GrimAC` を提供すると宣言しています。アーカイブは平坦化されており、未変更の Grim JAR を内部に格納したものではありません。
+- **モジュール状態：** 管理者コマンド `/vexintegration` は Grim の ACTIVE/INACTIVE、Bukkit の所有元、VexAC の状態、PacketEvents の状態、追跡中のプレイヤー数を報告します。ネイティブの `/grim` と `/grimac` コマンドは統合モジュールが登録します。
+- **制御された起動：** ローダーには Paper の設定 API と、正確に Minecraft 1.21.11 が必要です。プレイヤーがオンラインの状態での動的ロードと、別個の GrimAC インスタンスを拒否します。統合起動に失敗するとプラグインは無効になり、Grim の保護が無効であることがログに記録されます。サーバー自体は稼働を続ける場合があります。試合を始める前に状態を確認してください。
+- **既存データの移行：** 初回の統合ロード時、旧プラグインの両データツリーをバックアップし、統合先が存在しない場合に限って旧 GrimAC データをコピーします。両方が存在する場合は既存の統合データが優先され、結合や上書きは行われません。元のデータは保持されます。
+- **移動補正の担当：** `plugins/VexLandManhunt/integration.properties` の既定値は `movement-correction-owner=legacy` です。対応するもう一つの値は `grim` で、それ以外は起動を中止します。grim を選ぶと VexAC の setback／テレポート補正経路が抑制されますが、VexAC のチェック、アラート、証拠記録は残ります。すべての旧式処罰が無効になるわけではありません。
+- **ゲームプレイの基盤：** フラットな `/mhgui`、Runner/Hunter のロール循環、VexAC 操作、Smart Hunter Kit V3、一時停止／再開、復旧、683 個の翻訳キーは 1.9.11 に基づきます。これはパッケージ化と統合のリリースであり、観戦機能を備えた 1.13.1 の機能構成ではありません。
 
 #### `/mhgui` で始める
 
-1. Paper 1.21.11 / Java 21 のサーバーに VexLandManhunt-1.13.1.jar と grimac-bukkit-2.3.73.jar の両方を入れ、完全に再起動します。
-2. 信頼できる OP として参加し、**`/mhgui`** を実行します。
-3. **Player Roles** でプレイヤーを選び、Runner、Hunter、Spectator、No Team を指定します。Runner と Hunter を少なくとも 1 人ずつ設定します。
-4. **Match Settings**、**Global Language**、**GrimAC Security** を確認し、**Server Freeze** をオフにします。
-5. **Match Controls → Start Match** をクリックします。解放後、Hunter はコンパスを右クリックして Runner を選びます。
-6. Spectator はコンパスか `/mhspectate` を使います。管理者は Match Controls で Pause/Resume や確認付きの Reset Match を行います。
+1. Paper 1.21.11 / Java 21 を停止し、このリリースの VexLandManhunt-2.0.0.jar だけを導入します。既存のプラグインデータは保持してください。
+2. 完全起動後、OP/管理者として `/vexintegration` を実行し、`Grim=ACTIVE` と `PacketEvents=true` を確認します。
+3. `/mhgui` を開き、Player Roles で参加者をクリックして Runner と Hunter を少なくとも一人ずつ設定します。
+4. Friendly Fire、Language、Smart Hunter Kit、Auto World Spawn を確認します。VexAC GUI は従来のエンジン用で、Grim には独立した操作があります。
+5. Server Freeze をオフにして Start Match をクリックします。解放後、Hunter は追跡コンパスを右クリックします。
+6. Pause/Resume または Reset Match で次の試合を管理します。専用の Spectator ロールが必要なら、アーカイブの 1.13.1 系列を使用してください。
 
 **[完全な GUI ガイドとコマンド一覧](https://github.com/FarlandGame/Vexland_Manhunt/blob/main/docs/README.ja.md)**
 

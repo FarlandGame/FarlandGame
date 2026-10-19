@@ -14,16 +14,15 @@ Vexland_Manhunt brings match setup, team roles, the opening chase, tracking, pro
 
 #### Downloads and compatibility
 
-| File / version | Download | Purpose |
+| Supplied release | Download | Installation |
 |---|---|---|
-| **1.13.1 — current** | [VexLandManhunt-1.13.1.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.13.1/VexLandManhunt-1.13.1.jar) | Manhunt plugin by Bardiya and Ali |
-| **GrimAC 2.3.73 — required** | [grimac-bukkit-2.3.73.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.13.1/grimac-bukkit-2.3.73.jar) | Separate third-party anti-cheat dependency |
-| 1.9.11 — archived | [VexLandManhunt-1.9.11-.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.9.11/VexLandManhunt-1.9.11-.jar) | Previous Manhunt build |
-| 1.6.4 — archived | [VexLandManhunt-1.6.4.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v1.6.4/VexLandManhunt-1.6.4.jar) | Earlier Manhunt build |
+| **2.0.0 — combined package** | [VexLandManhunt-2.0.0.jar](https://github.com/FarlandGame/Vexland_Manhunt/releases/download/v2.0.0/VexLandManhunt-2.0.0.jar) | **One JAR**, including integrated GrimAC 2.3.73 |
+| **1.13.1 — spectator branch** | [Release and both JARs](https://github.com/FarlandGame/Vexland_Manhunt/releases/tag/v1.13.1) | Manhunt plus separate GrimAC 2.3.73 |
+| 1.9.11 / 1.6.4 — older | [All releases](https://github.com/FarlandGame/Vexland_Manhunt/releases) | Historical standalone builds |
 
-**Target: Paper 1.21.11, Java 21.** The numbers 1.6.4, 1.9.11 and 1.13.1 are plugin releases, not supported Minecraft versions. In 1.13.1, GrimAC is a hard dependency and the bridge requires the 2.3.73 API. Download **both current JARs**. These are server plugins; players do not install them in a client mods folder.
+**Paper 1.21.11 / Java 21.** These are server plugins, not client mods. The supplied filename and public release are **2.0.0**, but the unchanged descriptor reports **`1.9.11-grim.1`** and identifies the gameplay baseline as 1.9.11. This combined package does **not** contain the dedicated Spectator role, `/mspectator <player>`, `/mhspectate`, categorized menus or other 1.13.1 additions. Keep using the separately listed 1.13.1 branch if you need those features.
 
-These are original personal-server builds with creator-specific elevated administrative access, preserved exactly as supplied. This manual covers the public Manhunt controls.
+Original personal-server builds with creator-specific elevated administrative access are preserved as supplied. The guide covers the public controls.
 
 #### The Manhunt experience
 
@@ -38,26 +37,23 @@ These are original personal-server builds with creator-specific elevated adminis
 - **Localized guides:** Runner, Hunter, and administrator books explain objectives, tracker use, deaths, setup, and commands. Version 1.9.11 gives players a role-aware guide through `/mhhelp`.
 - **Paper Anti-Xray integration:** menu controls configure Paper's world-level protection; changes need a server restart to take effect.
 
-#### What is new in 1.13.1?
+#### What changed in the supplied 2.0.0 package?
 
-Compared with the supplied 1.9.11 build:
-
-- **Ghost spectators:** a separate role, administrator assignment, protected flight, hidden players, saved/restored state and a paginated participant-teleport menu.
-- **Redesigned control center:** categorized menus, explicit four-way role selection, named target picker, reconnect-duration selector, Classic/Fast/Hardcore/Custom presets and dedicated 30-second confirmation screens.
-- **GrimAC integration:** required GrimAC 2.3.73 replaces the active VexAC startup path. Master, five check groups, alerts and monitor/enforcement controls are exposed in the GUI. Paper Anti-Xray remains independent.
-- **New Smart Hunter Kit planner:** adapts equipment and supplies to Runner gear/enchantments, nearest Runner, team numbers, distance, dimension and terrain. It preserves stronger existing gear, avoids duplicate tools and limits consumable top-ups with a 30-second history. This is not a guarantee of a fixed gear gap or measured balance.
-- **Validated recovery:** SHA-256-sealed snapshots, schema/state checks and valid-backup fallback; invalid or newer-format snapshots are preserved without overwriting them. Spectator state has its own persistence.
-- **Expanded messages:** translated keys grow from 683 to 762 per bundled translation, still across the same ten in-game languages. Two new public commands are registered: `/mspectator <player>` and `/mhspectate`.
-- **Reset fallback:** if no safe surface near Overworld spawn is found, reset can skip that teleport instead of forcing it.
+- **One integrated JAR:** Manhunt, modified GrimAC 2.3.73 and bundled PacketEvents share one Bukkit plugin instance. No separate GrimAC or PacketEvents installation is needed for this package. The descriptor provides `GrimAC`; the archive is flattened, not a nested unchanged Grim JAR.
+- **Module status:** administrator command `/vexintegration` reports Grim ACTIVE/INACTIVE, the Bukkit owner, VexAC status, PacketEvents status and tracked-player count. Native `/grim` and `/grimac` commands are registered by the integrated module.
+- **Controlled startup:** the loader requires Paper's configuration API and exactly Minecraft 1.21.11. It rejects hot loading with online players and a separate GrimAC instance. If integrated startup fails, the plugin is disabled and logs that Grim protection is inactive; the server itself can continue. Verify status before starting a match.
+- **Existing data migration:** on the first integrated load, the migration backs up both old plugin data trees and copies old GrimAC data only when the integrated destination does not exist. Existing integrated data wins if both exist; no merge/overwrite is performed. Original data is retained.
+- **Movement correction ownership:** `plugins/VexLandManhunt/integration.properties` defaults to `movement-correction-owner=legacy`. The supported alternative is `grim`; other values abort startup. Choosing grim suppresses VexAC setback/teleport correction paths, while VexAC checks, alerts and evidence remain. It does not disable every legacy punishment.
+- **Gameplay baseline:** the flat `/mhgui`, Runner/Hunter role cycling, VexAC controls, Smart Hunter Kit V3, pause/resume, recovery and 683 translated keys follow 1.9.11. This is a combined packaging/integration release, not the spectator-enabled 1.13.1 feature set.
 
 #### Start using `/mhgui`
 
-1. Install both VexLandManhunt-1.13.1.jar and grimac-bukkit-2.3.73.jar on a Paper 1.21.11 / Java 21 server and restart fully.
-2. Join as a trusted OP and run **`/mhgui`**.
-3. In **Player Roles**, select each player, then choose Runner, Hunter, Spectator or No Team. Assign at least one Runner and Hunter.
-4. Review **Match Settings**, **Global Language** and **GrimAC Security**. Switch off **Server Freeze**.
-5. Open **Match Controls → Start Match**. Hunters right-click their compass to choose a Runner after release.
-6. Spectators use their compass or `/mhspectate`; administrators use Match Controls for Pause/Resume and confirmed Reset Match.
+1. Stop Paper 1.21.11 / Java 21 and install only VexLandManhunt-2.0.0.jar from this release; preserve existing plugin data.
+2. Start fully, then run `/vexintegration` as OP/admin and verify `Grim=ACTIVE` and `PacketEvents=true`.
+3. Run `/mhgui`. In Player Roles click participant heads to assign at least one Runner and Hunter.
+4. Review Friendly Fire, Language, Smart Hunter Kit and Auto World Spawn. The VexAC GUI controls the legacy engine; Grim has separate native controls.
+5. Switch Server Freeze off and click Start Match. Hunters right-click their tracker compass after release.
+6. Use Pause/Resume or Reset Match for another round. For the dedicated Spectator role, use the archived 1.13.1 branch.
 
 **[Read the complete GUI guide and command reference](https://github.com/FarlandGame/Vexland_Manhunt#full-setup-and-use-with-mhgui)**
 
