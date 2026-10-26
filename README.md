@@ -6,6 +6,29 @@ I'm **Bardiya Alizadeh**, also known as **Kabir** and **Farland_game**. This pag
 
 ## Featured work
 
+<!-- BOOK_SHOWCASE_START -->
+### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
+
+<p align="center"><a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg" width="240" alt="Purple cover of Visual Animation Tutorial, Persian edition"></a></p>
+
+**An illustrated animation book project by twin brothers Bardiya Alizadeh (Kabir) · Farland_game and Armiya Alizadeh (Kabir) · ArmiyaFbix.**
+
+From a character's first wave to a short scene of your own, this **77-page Persian guide** makes animation approachable through screenshots, marked controls and practical exercises. The hands-on core uses **Stick Nodes** on a phone: import characters and backgrounds, build poses, explore timing and tweening, move the camera, create reusable effects, arrange the scene and finish with a short introduction to editing and sound.
+
+Its strength is the connection between seeing and doing. Small, encouraging lessons give beginners a concrete next step, while custom figures, camera movement and shared motion leave room to make the result their own. Six chapters connect a short introduction to animation history and styles with an increasingly creative 2D workflow.
+
+**Persian print edition:** [Motekhassesan Publishing](https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/) · [Digikala](https://www.digikala.com/product/dkp-20238095/). **Persian digital edition:** [Taaghche](https://taaghche.com/book/235981/آموزش-انیمیشن-سازی-تصویری). ISBN **978-622-449-026-1**.
+
+The Persian cover and current catalogues list Bardiya; this portfolio also recognises Armiya's contribution and their shared English edition. **The yellow-cover English edition, Visual Animation Tutorial, is forthcoming on Amazon; the purchase link will be added after publication.**
+
+[Read the full introduction, see the cover and look inside](https://github.com/FarlandGame/Visual-Animation-Tutorial) · [Meet Armiya on YouTube](https://www.youtube.com/@ArmiyaFabix)
+
+**Book introduction languages (18):**
+
+[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.id.md)
+
+<!-- BOOK_SHOWCASE_END -->
+
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)
 
 **A complete Minecraft Runner-versus-Hunter experience, co-created by [Bardiya Alizadeh (Kabir) · Farland_game](https://github.com/FarlandGame) and [Ali · Alivexor](https://github.com/Alivexor).**

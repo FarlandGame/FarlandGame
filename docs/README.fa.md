@@ -6,6 +6,29 @@
 
 ## نمونه‌کارها
 
+<!-- BOOK_SHOWCASE_START -->
+### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
+
+<p align="center"><a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg" width="240" alt="جلد بنفش نسخهٔ فارسی کتاب آموزش انیمیشن سازی تصویری"></a></p>
+
+**پروژهٔ کتاب آموزش تصویری انیمیشن با نام دو برادر دوقلو: بردیا علیزاده، ملقب به کبیر · Farland_game و ارمیا علیزاده، ملقب به کبیر · ArmiyaFbix.**
+
+از اولین سلام‌کردن یک کاراکتر تا ساخت صحنه‌ای کوتاه با ایدهٔ خودتان؛ این **راهنمای فارسی ۷۷ صفحه‌ای** با تصویر محیط برنامه، مشخص‌کردن ابزارها و تمرین عملی، شروع انیمیشن‌سازی را ملموس می‌کند. محور اصلی آموزش، **Stick Nodes** روی گوشی است: واردکردن کاراکتر و پس‌زمینه، ساخت حالت‌ها، زمان‌بندی و میان‌یابی، حرکت دوربین، ساخت جلوهٔ قابل استفادهٔ دوباره و چیدمان صحنه، همراه با آشنایی کوتاه پایانی با ادیت و صداگذاری.
+
+نقطهٔ قوت کتاب، پیوند دیدن و انجام‌دادن است. درس‌های کوچک و صمیمی، قدم بعدی را برای تازه‌کار روشن می‌کنند و ساخت کاراکتر دلخواه، دوربین و حرکت هم‌زمان، فرصت خلاقیت می‌دهند. شش فصل کتاب، آشنایی کوتاه با تاریخچه و سبک‌ها را به یک مسیر عملی دوبعدی وصل می‌کنند.
+
+**نسخهٔ چاپی فارسی:** [نشر متخصصان](https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/) · [دیجی‌کالا](https://www.digikala.com/product/dkp-20238095/). **نسخهٔ دیجیتال فارسی:** [طاقچه](https://taaghche.com/book/235981/آموزش-انیمیشن-سازی-تصویری). شابک **978-622-449-026-1**.
+
+جلد فارسی و فهرست فعلی فروشگاه‌ها نام بردیا را دارند؛ در این رزومه سهم ارمیا و نسخهٔ انگلیسی مشترک دو برادر نیز معرفی شده است. **نسخهٔ انگلیسی با جلد زرد و عنوان Visual Animation Tutorial در دست انتشار در آمازون است؛ لینک خرید پس از انتشار اضافه می‌شود.**
+
+[معرفی کامل، تصویرهای جلد و نمونهٔ داخل کتاب](https://github.com/FarlandGame/Visual-Animation-Tutorial) · [کانال یوتیوب ارمیا](https://www.youtube.com/@ArmiyaFabix)
+
+**زبان‌های معرفی کتاب (۱۸ زبان):**
+
+[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.id.md)
+
+<!-- BOOK_SHOWCASE_END -->
+
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)
 
 **یک تجربهٔ کامل رانر در برابر هانتر در ماینکرافت، ساختهٔ مشترک [بردیا علیزاده، ملقب به کبیر · Farland_game](https://github.com/FarlandGame) و [علی · Alivexor](https://github.com/Alivexor).**

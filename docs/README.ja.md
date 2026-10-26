@@ -6,6 +6,29 @@
 
 ## 作品紹介
 
+<!-- BOOK_SHOWCASE_START -->
+### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
+
+<p align="center"><a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg" width="240" alt="Visual Animation Tutorial ペルシア語版の紫色の表紙"></a></p>
+
+**双子の兄弟 Bardiya Alizadeh（Kabir）· Farland_game と Armiya Alizadeh（Kabir）· ArmiyaFbix による、図解アニメーション入門書のプロジェクトです。**
+
+キャラクターが初めて手を振る動きから、自分だけの短いシーンへ。この **77 ページのペルシア語のガイド**は、画面写真、操作箇所の印、実践的な練習を通して制作を身近にします。実践の中心はスマートフォンの **Stick Nodes**。キャラクターや背景の読み込み、ポーズ、タイミングとトゥイーン、カメラ操作、再利用できるエフェクト、場面の構成を学び、最後に編集と音の追加を短く紹介します。
+
+本書の良さは、見ることと実際に作ることのつながりです。親しみやすい小さなレッスンが初心者の次の一歩を示し、キャラクター作りやカメラ、一括移動の工夫が自分らしい表現へつながります。6 章を通して、歴史や表現形式の簡単な紹介から、創作の幅を広げる 2D の制作へ進みます。
+
+**ペルシア語の紙版：** [Motekhassesan Publishing](https://shop.motekhassesan.com/product/آموزش-انیمیشن-سازی-تصویری/) · [Digikala](https://www.digikala.com/product/dkp-20238095/)。**ペルシア語の電子版：** [Taaghche](https://taaghche.com/book/235981/آموزش-انیمیشن-سازی-تصویری)。ISBN **978-622-449-026-1**。
+
+ペルシア語版の表紙と現在の書誌情報には Bardiya の名前が掲載されています。このポートフォリオでは Armiya の貢献と共同の英語版も紹介しています。**黄色い表紙の英語版 Visual Animation Tutorial は Amazon で刊行予定です。公開後に購入リンクを追加します。**
+
+[詳しい紹介・表紙・内容サンプルを見る](https://github.com/FarlandGame/Visual-Animation-Tutorial) · [Armiya の YouTube](https://www.youtube.com/@ArmiyaFabix)
+
+**本の紹介ページの言語（18）：**
+
+[English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.id.md)
+
+<!-- BOOK_SHOWCASE_END -->
+
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)
 
 **[Bardiya Alizadeh（Kabir）· Farland_game](https://github.com/FarlandGame) と [Ali · Alivexor](https://github.com/Alivexor) が共同制作した、Minecraftのランナー対ハンターを一通り楽しめるプラグインです。**
