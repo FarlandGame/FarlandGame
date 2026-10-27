@@ -7,14 +7,29 @@
 <!-- PLAYFUL_ABOUT_START -->
 <p><a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/autoclicker.svg" width="82" height="82" alt="Farland_autcliker"></a> <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/manhunt.svg" width="82" height="82" alt="Vexland_Manhunt"></a> <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/book.svg" width="82" height="82" alt="Visual-Animation-Tutorial"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/animation.svg" width="82" height="82" alt="Animation-Portfolio"></a></p>
 
-> یک اوتوکلیکر، یک پلاگین منهانت، یک انیمیشن و یک کتاب وارد یک پروفایل گیت‌هاب می‌شوند… به صفحهٔ من خوش آمدی! 😄
+**تکیه‌کلام مخصوص من 🎤**
 
-## کمی دربارهٔ من
+> My name is Bardiya Kabir — Mr. King of Gods. But you can call me Farland_game.
 
-- 🧑‍💻 ابزارهای ویندوزی و پلاگین‌های سرور ماینکرافت می‌سازم.
-- 🎬 انیمیشن سه‌بعدی را با بلندر می‌سازم؛ دو ویدئوی آخر مجموعهٔ اصلی‌ام با افتر افکت هم تدوین شده‌اند.
-- 📚 پروژهٔ کتاب «آموزش انیمیشن سازی تصویری» برای من پیوند انیمیشن و آموزش است؛ نام برادر دوقلویم ارمیا · ArmiyaFbix هم در این رزومه کنار من آمده است.
-- 🤝 پلاگین Vexland_Manhunt حاصل همکاری من و دوستم علی · Alivexor است.
+## من را کبیر صدا کن 😎
+
+من **بردیا علیزاده** هستم؛ **کبیر** لقبی است که خودم برای خودم انتخاب کرده‌ام و **Farland_game** هویت هنری من است. بلندپروازم: دوست دارم آثاری بسازم که در ذهن بمانند، نام خودم را بسازم و تیمی خلاق را برای جان‌دادن به ایده‌های بزرگ هدایت کنم.
+
+داستانم از حدود شش‌سالگی و وررفتن با گوشی و لپ‌تاپ خاله‌ام، کنار برادر دوقلویم **ارمیا** شروع شد. ماینکرافت در آرزوی بازی‌سازی من نقش داشت. امکانات محدود، مسیرم را به **انیمیشن‌سازی با Stick Nodes روی گوشی** رساند؛ حدود پانزده‌سالگی با داشتن لپ‌تاپ خودم، وارد مرحلهٔ تازه‌ای از برنامه‌نویسی، **Blender**، **After Effects** و پروژه‌های بزرگ‌تر با دوستانم شدم.
+
+گرم و صمیمی، بلندپرواز و رقابتی‌ام و از جمع‌کردن آدم‌ها دور یک پروژهٔ مشترک لذت می‌برم. از شخصیت **سال گودمن در Better Call Saul** برای اعتمادبه‌نفس، حاضر‌جوابی و فن بیان الهام می‌گیرم. چشم‌انداز بلندمدتم از **تحصیل انیمیشن در ژاپن** شروع می‌شود و به تدریس، **استودیویی بین‌المللی با شعبه‌های تخصصی** و در ادامه استودیوی بازی‌سازی می‌رسد. 🇯🇵🎬
+
+> فهرست مأموریت‌هایم: انیمیشن، برنامه‌نویسی، کتاب، تیم… ظاهراً دکمهٔ «قبول مأموریت جدید» خیلی خوب کار می‌کند! 🎮🔥
+
+[داستان کامل من را بخوانید؛ به ۱۸ زبان](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fa.md)
+
+### فن‌آرت؟ خیلی دوست دارم ببینمش! 🎨🔥
+
+دوست دارم برداشت شما را از **آواتارهای ماینکرافت و روبلاکسم** یا طراحی کارتونی و کاریکاتور **خودم** ببینم؛ بامزه، خفن، نمایشی یا کاملاً با سبک خودتان. اگر اثرتان را در **پینترست یا پلتفرم دیگری** منتشر می‌کنید، نام **Farland_game** و لینک [رزومهٔ من](https://github.com/FarlandGame) را بگذارید تا دیگران هم سازنده‌ای را که الهام‌بخش طرح بوده پیدا کنند. جذابیتش به سبک خود شماست؛ امضای خودتان را به کاراکتر اضافه کنید! 😎
+
+[مرجع کاراکترها برای طراح‌ها 🎨](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fa.md#fan-art) · [پروفایل روبلاکس من](https://www.roblox.com/users/7889384276/profile)
+
+*موقع دیدار «درود»، تا دیدار بعدی «بدرود»؛ سلام و خداحافظی به سبک خودم! 👋*
 
 <!-- PLAYFUL_ABOUT_END -->
 
@@ -199,6 +214,7 @@ Farland_autcliker یک برنامهٔ ویندوزی ساختهٔ **بردیا �
 | پلتفرم | کانال‌ها / صفحه‌ها |
 | --- | --- |
 | GitHub | [FarlandGame](https://github.com/FarlandGame) |
+| Roblox | [farland_game0 · Farland_game](https://www.roblox.com/users/7889384276/profile) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | کانال‌های روبیکا | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
 | صفحه‌های روبیکا | [farland_game](https://rubika.ir/farland_game) · [Farland_animations](https://rubika.ir/Farland_animations) |

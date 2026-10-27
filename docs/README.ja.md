@@ -7,14 +7,29 @@
 <!-- PLAYFUL_ABOUT_START -->
 <p><a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/autoclicker.svg" width="82" height="82" alt="Farland_autcliker"></a> <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/manhunt.svg" width="82" height="82" alt="Vexland_Manhunt"></a> <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/book.svg" width="82" height="82" alt="Visual-Animation-Tutorial"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/animation.svg" width="82" height="82" alt="Animation-Portfolio"></a></p>
 
-> オートクリッカー、Manhunt プラグイン、アニメーション、そして本が GitHub のプロフィールに集合……ここが私のページです。😄
+**お決まりの自己紹介 🎤**
 
-## 私について、もう少し
+> My name is Bardiya Kabir — Mr. King of Gods. But you can call me Farland_game.
 
-- 🧑‍💻 Windows 用ツールと Minecraft サーバー用プラグインを作っています。
-- 🎬 Blender で 3D アニメーションを制作し、メインシリーズの最新 2 本には After Effects での編集も加えています。
-- 📚 書籍プロジェクト Visual Animation Tutorial では、アニメーションと教えることをつなげています。このポートフォリオでは双子の兄弟 Armiya · ArmiyaFbix も共同制作者として紹介しています。
-- 🤝 Vexland_Manhunt は友人の Ali · Alivexor と共同制作しました。
+## Kabir と呼んでください 😎
+
+本名は **Bardiya Alizadeh**。**Kabir** は自分で選んだ呼び名、**Farland_game** は創作活動の名前です。目標は大きく。記憶に残る作品を作り、自分の名前を築き、アイデアを形にするクリエイティブなチームを率いたいと思っています。
+
+始まりは 6 歳ごろ、双子の兄弟 **Armiya** と叔母のスマートフォンやノートパソコンを触っていたころです。Minecraft をきっかけにゲーム制作を夢見ました。限られた機材でできることを探し、**スマートフォンの Stick Nodes でアニメーション制作**へ。15 歳ごろに自分のノートパソコンを手に入れ、プログラミング、**Blender**、**After Effects**、友人とのより大きな制作へと進みました。
+
+親しみやすく、向上心が強く、競争も好き。共通のプロジェクトに向けて人をまとめることを楽しんでいます。**Better Call Saul の Saul Goodman** からは、自信、機転、話す力に刺激を受けました。長期的には **日本でアニメーションを学ぶこと**から始め、教える機会を持ち、**専門分野ごとの拠点を持つ国際的なアニメーションスタジオ**、さらにゲームスタジオへと夢を広げています。🇯🇵🎬
+
+> クエスト一覧：アニメーション、プログラミング、本、チーム……どうやら「新しいクエストを受ける」ボタンは絶好調です。🎮🔥
+
+[私の歩みを読む — 18 言語で紹介](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ja.md)
+
+### ファンアート、ぜひ見てみたいです！🎨🔥
+
+**私の Minecraft や Roblox のアバター**、または **私自身**の似顔絵やカリカチュアを、皆さんのスタイルで描いてもらえたらうれしいです。面白くても、かっこよくても、ドラマチックでも大歓迎。**Pinterest などのプラットフォーム**で公開するときは、**Farland_game** の名前と [私のポートフォリオ](https://github.com/FarlandGame) を添えて、絵のきっかけになったクリエイターへたどれるようにしてください。皆さんらしさが見たいので、自由なアレンジを加えてみてください！😎
+
+[描いてくれる方へのキャラクター資料 🎨](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ja.md#fan-art) · [私の Roblox プロフィール](https://www.roblox.com/users/7889384276/profile)
+
+*出会いには「Dorood」、また会う日まで「Bedrood」。私流のこんにちはとさようならです。👋*
 
 <!-- PLAYFUL_ABOUT_END -->
 
@@ -199,6 +214,7 @@ Farland_autcliker は、**Bardiya Alizadeh（Kabir）／活動名 Farland_game**
 | プラットフォーム | チャンネル／ページ |
 | --- | --- |
 | GitHub | [FarlandGame](https://github.com/FarlandGame) |
+| Roblox | [farland_game0 · Farland_game](https://www.roblox.com/users/7889384276/profile) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | Rubika チャンネル | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
 | Rubika ページ | [farland_game](https://rubika.ir/farland_game) · [Farland_animations](https://rubika.ir/Farland_animations) |

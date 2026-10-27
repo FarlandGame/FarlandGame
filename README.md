@@ -7,14 +7,29 @@ I'm **Bardiya Alizadeh**, also known as **Kabir** and **Farland_game**. This pag
 <!-- PLAYFUL_ABOUT_START -->
 <p><a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/autoclicker.svg" width="82" height="82" alt="Farland_autcliker"></a> <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/manhunt.svg" width="82" height="82" alt="Vexland_Manhunt"></a> <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/book.svg" width="82" height="82" alt="Visual-Animation-Tutorial"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/animation.svg" width="82" height="82" alt="Animation-Portfolio"></a></p>
 
-> An auto clicker, a Manhunt plugin, an animation and a book walk into a GitHub profile… welcome to mine. 😄
+**My signature intro 🎤**
 
-## A little about me
+> My name is Bardiya Kabir — Mr. King of Gods. But you can call me Farland_game.
 
-- 🧑‍💻 I create Windows tools and Minecraft server plugins.
-- 🎬 I make 3D animation in Blender; my latest two main portfolio clips also include After Effects editing.
-- 📚 My book project, Visual Animation Tutorial, brings together animation and teaching, with my twin brother Armiya · ArmiyaFbix credited alongside me.
-- 🤝 Vexland_Manhunt is a shared creation with my friend Ali · Alivexor.
+## Call me Kabir 😎
+
+I'm **Bardiya Alizadeh**, and **Kabir** is the name I chose for myself. **Farland_game** is my creative identity. I aim high: I want to make work people remember, build a name of my own and lead a creative team with ideas worth bringing to life.
+
+My story starts around age six, exploring my aunt's phone and laptop with my twin brother **Armiya**. Minecraft helped spark an early dream of making games. Limited access to equipment led me to **Stick Nodes animation on a phone**; getting my own laptop around fifteen opened the door to programming, **Blender**, **After Effects** and bigger projects with friends.
+
+I'm warm, ambitious and competitive, and I enjoy organising people around a shared project. Saul Goodman from **Better Call Saul** inspires my interest in confidence, quick thinking and persuasive speaking. My long-term plan starts with **studying animation in Japan**, sharing what I learn through teaching, and building an **international animation studio with specialist branches**, with a game studio further down the road. 🇯🇵🎬
+
+> My quest log: animation, coding, a book, a team… apparently the “accept new quest” button works very well. 🎮🔥
+
+[Read my full story — available in 18 languages](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.en.md)
+
+### Fan art? I would love to see it! 🎨🔥
+
+I'd love to see your take on **my Minecraft and Roblox avatars**, or a cartoon or caricature of **me**: funny, dramatic, stylish or completely your own. If you share your artwork on **Pinterest or another platform**, credit **Farland_game** and link back to [my portfolio](https://github.com/FarlandGame) so people can find the creator who inspired it. Your style is the point—give the character your own twist. 😎
+
+[Character references for artists 🎨](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.en.md#fan-art) · [My Roblox profile](https://www.roblox.com/users/7889384276/profile)
+
+*Dorood when we meet, bedrood until next time — my own way of saying hello and goodbye. 👋*
 
 <!-- PLAYFUL_ABOUT_END -->
 
@@ -199,6 +214,7 @@ The public Windows ZIP includes the executable, source code, an interface previe
 | Platform | Channels / pages |
 | --- | --- |
 | GitHub | [FarlandGame](https://github.com/FarlandGame) |
+| Roblox | [farland_game0 · Farland_game](https://www.roblox.com/users/7889384276/profile) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | Rubika channels | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
 | Rubika pages | [farland_game](https://rubika.ir/farland_game) · [Farland_animations](https://rubika.ir/Farland_animations) |
