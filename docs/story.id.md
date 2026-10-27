@@ -36,6 +36,14 @@ Aku senang diperhatikan, meninggalkan kesan, dan membangun nama yang diingat ora
 
 Target berikutnya adalah **kuliah animasi di universitas di Jepang**. Aku berharap mendapat pengakuan lewat karyaku, berkolaborasi dengan komunitas animasi, dan memperoleh kesempatan mengajar seiring bertambahnya kemampuan dan pengalaman. Dari sana, visi jangka panjangku adalah **studio animasi internasional dengan beberapa cabang spesialis**: 3D, 2D, anime, dan pendekatan lainnya. Aku membayangkan cabang-cabang itu saling menginspirasi lewat persaingan kreatif yang bersahabat, sambil mengembangkan keunggulan masing-masing. Aku ingin menyumbangkan karya 3D-ku sendiri kepada komunitas animasi Jepang, lalu membangun **studio pengembangan game** juga. Aku ingin memimpin tim-tim tersebut, membangun perusahaan kreatif yang sukses, dan memberi pengaruh berarti bagi masa depan animasi serta game. Hadirnya bahasa Jepang di portofolioku mencerminkan minat itu dan keinginan untuk terhubung secara internasional. Semua ini adalah ambisi yang sedang kuusahakan; portofolio ini mencatat proyek-proyek sepanjang perjalanannya.
 
+<!-- BOOK_RECOGNITION_START -->
+## Apresiasi atas penulisan buku 🏅
+
+Saya menerima piagam penghargaan dari Administrasi Pendidikan Maragheh atas penulisan Visual Animation Tutorial. Piagam yang difoto mencantumkan nama Bardiya Alizadeh dan tanggal 1404/09/09 menurut kalender Hijriah Syamsiah.
+
+[Baca piagam dan terjemahannya](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md)
+<!-- BOOK_RECOGNITION_END -->
+
 <a id="fan-art"></a>
 
 ## Fan art? Aku ingin sekali melihatnya! 🎨🔥

@@ -85,6 +85,18 @@
 
 [English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.id.md)
 
+<!-- BOOK_RECOGNITION_START -->
+#### تقدیر بابت تألیف کتاب 🏅
+
+برای تألیف کتاب «آموزش انیمیشن سازی تصویری» از مدیریت آموزش و پرورش مراغه تقدیرنامه دریافت کردم. در تصویر این تقدیرنامه، نام بردیا علیزاده و تاریخ ۱۴۰۴/۰۹/۰۹ هجری شمسی آمده است.
+
+> از اولین فریم انیمیشن تا یک کتاب؛ حالا یک تقدیرنامه هم به فهرست مأموریت‌ها اضافه شد! 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="نسخهٔ تمیزشده برای مشاهده"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="ترجمهٔ غیررسمی انگلیسی"></a></p>
+
+[متن تقدیرنامه و ترجمه را بخوانید](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [عکس اصلی](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [ترجمهٔ غیررسمی انگلیسی](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 <!-- BOOK_SHOWCASE_END -->
 
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)

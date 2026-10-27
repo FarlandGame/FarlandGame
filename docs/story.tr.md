@@ -36,6 +36,14 @@ Görünür olmayı, iz bırakmayı ve insanların hatırlayacağı bir isim olu�
 
 Sıradaki hedefim **Japonya'da üniversitede animasyon eğitimi almak**. Çalışmalarımla takdir kazanmayı, animasyon topluluklarıyla iş birliği yapmayı ve becerilerimle deneyimim geliştikçe öğretme fırsatları bulmayı umuyorum. Sonrasında uzun vadeli vizyonum; 3D, 2D, anime ve başka yaklaşımlara odaklanan **birden çok uzman şubesi olan uluslararası bir animasyon stüdyosu**. Şubelerin dostça bir yaratıcı rekabetle birbirine ilham verdiğini ve her birinin kendi güçlü yanlarını geliştirdiğini hayal ediyorum. Kendi 3D çalışmalarımla Japonya'nın animasyon topluluğuna katkıda bulunmak ve ileride bir **oyun geliştirme stüdyosu** da kurmak istiyorum. Bu ekiplere liderlik etmek, başarılı yaratıcı şirketler kurmak ve animasyon ile oyunların geleceğinde anlamlı bir etki yaratmak istiyorum. Portföyümde Japoncaya yer vermem, bu ilgimi ve uluslararası bağlar kurma isteğimi yansıtıyor. Bunlar ulaşmak için çalıştığım hedefler; bu portföy de yol boyunca ortaya çıkan projeleri kaydediyor.
 
+<!-- BOOK_RECOGNITION_START -->
+## Kitap yazarlığı için takdir 🏅
+
+Visual Animation Tutorial kitabını yazdığım için Meraga Eğitim İdaresinden bir takdir belgesi aldım. Fotoğraftaki belgede Bardiya Alizadeh adı ve güneş hicri takvimine göre 1404/09/09 tarihi yer alıyor.
+
+[Belgeyi ve çevirisini oku](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md)
+<!-- BOOK_RECOGNITION_END -->
+
 <a id="fan-art"></a>
 
 ## Hayran çizimleri mi? Görmeyi çok isterim! 🎨🔥

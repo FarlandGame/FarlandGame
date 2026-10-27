@@ -85,6 +85,18 @@ The Persian cover and current catalogues list Bardiya; this portfolio also recog
 
 [English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.id.md)
 
+<!-- BOOK_RECOGNITION_START -->
+#### Book-authorship recognition 🏅
+
+I received a certificate of appreciation from the Maragheh Education Administration for authoring Visual Animation Tutorial. The photographed certificate names Bardiya Alizadeh and is dated 1404/09/09 (Solar Hijri).
+
+> From a first animation frame to a book—and a certificate in the quest log. 📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Cleaned viewing copy"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Unofficial English translation"></a></p>
+
+[Read the certificate and translation](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Original photograph](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Unofficial English translation](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 <!-- BOOK_SHOWCASE_END -->
 
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)

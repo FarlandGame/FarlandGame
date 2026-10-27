@@ -36,6 +36,14 @@ Lubię być zauważany, robić wrażenie i budować markę, którą ludzie zapam
 
 Mój kolejny cel to **studia animacji na uniwersytecie w Japonii**. Mam nadzieję zdobyć uznanie za swoją pracę, współpracować ze środowiskami animatorów i z czasem, gdy rozwinę umiejętności oraz doświadczenie, otrzymać możliwość nauczania. Dalej widzę **międzynarodowe studio animacji z wieloma wyspecjalizowanymi oddziałami**: 3D, 2D, anime i innymi podejściami. Wyobrażam sobie oddziały inspirujące się nawzajem poprzez przyjazną twórczą rywalizację, z których każdy rozwija własne mocne strony. Chciałbym wnosić własne prace 3D do japońskiej społeczności animatorów, a później zbudować również **studio tworzące gry**. Chcę prowadzić te zespoły, budować odnoszące sukcesy firmy kreatywne i mieć znaczący wpływ na przyszłość animacji oraz gier. Obecność języka japońskiego w moim portfolio odzwierciedla to zainteresowanie i chęć nawiązywania międzynarodowych kontaktów. To ambicje, do których realizacji dążę; portfolio dokumentuje projekty powstające po drodze.
 
+<!-- BOOK_RECOGNITION_START -->
+## Uznanie za napisanie książki 🏅
+
+Za napisanie Visual Animation Tutorial otrzymałem dyplom uznania od administracji oświatowej w Maragheh. Na sfotografowanym dyplomie widnieją nazwisko Bardiya Alizadeh oraz data 1404/09/09 według słonecznego kalendarza hidżry.
+
+[Przeczytaj dyplom i tłumaczenie](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md)
+<!-- BOOK_RECOGNITION_END -->
+
 <a id="fan-art"></a>
 
 ## Fanarty? Chętnie je zobaczę! 🎨🔥

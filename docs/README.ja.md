@@ -85,6 +85,18 @@
 
 [English](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.id.md)
 
+<!-- BOOK_RECOGNITION_START -->
+#### 書籍執筆への表彰 🏅
+
+Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関から感謝状をいただきました。撮影した感謝状には Bardiya Alizadeh の名前と、太陽ヒジュラ暦 1404/09/09 の日付が記載されています。
+
+> 最初のアニメーションの 1 コマから、本の執筆へ。そしてクエストログに感謝状が加わりました。📚✨
+
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="見やすく整えた画像"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="非公式の英訳"></a></p>
+
+[感謝状と翻訳を読む](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [元の写真](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [非公式の英訳](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+<!-- BOOK_RECOGNITION_END -->
+
 <!-- BOOK_SHOWCASE_END -->
 
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)

@@ -36,6 +36,14 @@ Gosto de ser visto, causar uma boa impressão e construir um nome que as pessoas
 
 Meu próximo objetivo é **estudar animação em uma universidade no Japão**. Espero conquistar reconhecimento pelo meu trabalho, colaborar com comunidades de animação e ter oportunidades de ensinar conforme minhas habilidades e experiência crescerem. A partir daí, minha visão de longo prazo é um **estúdio internacional de animação com várias unidades especializadas**: 3D, 2D, anime e outras abordagens. Imagino essas unidades inspirando umas às outras por meio de uma competição criativa amigável, cada uma desenvolvendo seus pontos fortes. Gostaria de contribuir com meu próprio trabalho em 3D para a comunidade de animação do Japão e, mais adiante, criar também um **estúdio de desenvolvimento de jogos**. Quero liderar essas equipes, construir empresas criativas de sucesso e ter uma influência significativa no futuro da animação e dos jogos. Incluir o japonês no meu portfólio reflete esse interesse e minha vontade de me conectar internacionalmente. Essas são as ambições pelas quais trabalho; este portfólio registra os projetos ao longo do caminho.
 
+<!-- BOOK_RECOGNITION_START -->
+## Reconhecimento pela autoria do livro 🏅
+
+Recebi um certificado de agradecimento da Administração de Educação de Maragheh pela autoria de Visual Animation Tutorial. O certificado fotografado traz o nome de Bardiya Alizadeh e a data 1404/09/09 do calendário islâmico solar.
+
+[Ler o certificado e a tradução](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md)
+<!-- BOOK_RECOGNITION_END -->
+
 <a id="fan-art"></a>
 
 ## Fan art? Eu adoraria ver! 🎨🔥

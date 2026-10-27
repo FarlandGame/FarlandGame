@@ -36,6 +36,14 @@ Ik vind het fijn om gezien te worden, indruk te maken en een naam op te bouwen d
 
 Mijn volgende doel is **animatie studeren aan een universiteit in Japan**. Ik hoop erkenning voor mijn werk te verdienen, samen te werken met animatiegemeenschappen en kansen te krijgen om les te geven naarmate mijn kennis en ervaring groeien. Van daaruit is mijn langetermijnvisie een **internationale animatiestudio met meerdere gespecialiseerde vestigingen**: 3D, 2D, anime en andere benaderingen. Ik stel me voor dat die vestigingen elkaar inspireren via vriendelijke creatieve competitie en elk hun eigen sterke kanten ontwikkelen. Ik wil graag met mijn eigen 3D-werk bijdragen aan de Japanse animatiegemeenschap en later ook een **studio voor gameontwikkeling** opbouwen. Ik wil die teams leiden, succesvolle creatieve bedrijven opzetten en betekenisvol bijdragen aan de toekomst van animatie en games. Japans opnemen in mijn portfolio weerspiegelt die interesse en mijn wens om internationaal verbindingen te leggen. Dit zijn de ambities waar ik naartoe werk; dit portfolio legt de projecten onderweg vast.
 
+<!-- BOOK_RECOGNITION_START -->
+## Waardering voor het schrijven van het boek 🏅
+
+Voor het schrijven van Visual Animation Tutorial ontving ik een oorkonde van waardering van de onderwijsdienst van Maragheh. Op de gefotografeerde oorkonde staan de naam Bardiya Alizadeh en de datum 1404/09/09 volgens de Iraanse zonnekalender.
+
+[Lees de oorkonde en de vertaling](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md)
+<!-- BOOK_RECOGNITION_END -->
+
 <a id="fan-art"></a>
 
 ## Fanart? Ik zie het graag! 🎨🔥
