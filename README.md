@@ -4,10 +4,28 @@
 
 I'm **Bardiya Alizadeh**, also known as **Kabir** and **Farland_game**. This page brings together my software projects and creative work.
 
+<!-- PLAYFUL_ABOUT_START -->
+<p><a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/autoclicker.svg" width="82" height="82" alt="Farland_autcliker"></a> <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/manhunt.svg" width="82" height="82" alt="Vexland_Manhunt"></a> <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/book.svg" width="82" height="82" alt="Visual-Animation-Tutorial"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/animation.svg" width="82" height="82" alt="Animation-Portfolio"></a></p>
+
+> An auto clicker, a Manhunt plugin, an animation and a book walk into a GitHub profile… welcome to mine. 😄
+
+## A little about me
+
+- 🧑‍💻 I create Windows tools and Minecraft server plugins.
+- 🎬 I make 3D animation in Blender; my latest two main portfolio clips also include After Effects editing.
+- 📚 My book project, Visual Animation Tutorial, brings together animation and teaching, with my twin brother Armiya · ArmiyaFbix credited alongside me.
+- 🤝 Vexland_Manhunt is a shared creation with my friend Ali · Alivexor.
+
+<!-- PLAYFUL_ABOUT_END -->
+
 ## Featured work
 
 <!-- ANIMATION_SHOWCASE_START -->
 ### [Animation & Visual Portfolio](https://github.com/FarlandGame/Animation-Portfolio)
+
+<!-- PLAYFUL_ANIMATION_START -->
+> Blocky characters, big ideas, and the universal animator side quest: waiting for the render. 🎬🍿
+<!-- PLAYFUL_ANIMATION_END -->
 
 **Bardiya Alizadeh (Kabir) · Farland_game — animation, character imagery and visual development.**
 
@@ -30,6 +48,10 @@ Each video has a descriptive title, representative frame, duration, resolution, 
 <!-- BOOK_SHOWCASE_START -->
 ### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
 
+<!-- PLAYFUL_BOOK_START -->
+> Even a stick figure deserves a dramatic entrance. First pose today, your own little scene next. 📚🎬
+<!-- PLAYFUL_BOOK_END -->
+
 <p align="center"><a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg" width="240" alt="Purple cover of Visual Animation Tutorial, Persian edition"></a></p>
 
 **An illustrated animation book project by twin brothers Bardiya Alizadeh (Kabir) · Farland_game and Armiya Alizadeh (Kabir) · ArmiyaFbix.**
@@ -51,6 +73,10 @@ The Persian cover and current catalogues list Bardiya; this portfolio also recog
 <!-- BOOK_SHOWCASE_END -->
 
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)
+
+<!-- PLAYFUL_MANHUNT_START -->
+> Hunters bring a compass. Runners bring a plan… and a backup excuse. 🎮🧭
+<!-- PLAYFUL_MANHUNT_END -->
 
 **A complete Minecraft Runner-versus-Hunter experience, co-created by [Bardiya Alizadeh (Kabir) · Farland_game](https://github.com/FarlandGame) and [Ali · Alivexor](https://github.com/Alivexor).**
 
@@ -113,6 +139,10 @@ A little Minecraft banter from Bardiya 😄
 
 ### [Farland_autcliker](https://github.com/FarlandGame/Farland_autcliker)
 
+<!-- PLAYFUL_AUTOCLICKER_START -->
+> One click walks in; a whole crowd follows. Your mouse has recruited backup. 🖱️✨
+<!-- PLAYFUL_AUTOCLICKER_END -->
+
 <!-- APP_DOCUMENTATION -->
 **Documentation languages (18):**
 
@@ -159,6 +189,10 @@ The public Windows ZIP includes the executable, source code, an interface previe
 **Built with:** Python · Tkinter · Windows API · PyInstaller
 
 ## Find me
+
+<!-- PLAYFUL_SOCIAL_START -->
+> Pick your next portal below. Apparently, one creative project also needs a small collection of usernames. 🌍🔗
+<!-- PLAYFUL_SOCIAL_END -->
 
 ### Channels and social links
 

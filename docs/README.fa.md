@@ -4,10 +4,28 @@
 
 من **بردیا علیزاده** هستم؛ ملقب به **کبیر** و شناخته‌شده با نام هنری **Farland_game**. این صفحه محل معرفی پروژه‌های نرم‌افزاری و آثار خلاقانهٔ من است.
 
+<!-- PLAYFUL_ABOUT_START -->
+<p><a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/autoclicker.svg" width="82" height="82" alt="Farland_autcliker"></a> <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/manhunt.svg" width="82" height="82" alt="Vexland_Manhunt"></a> <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/book.svg" width="82" height="82" alt="Visual-Animation-Tutorial"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/animation.svg" width="82" height="82" alt="Animation-Portfolio"></a></p>
+
+> یک اوتوکلیکر، یک پلاگین منهانت، یک انیمیشن و یک کتاب وارد یک پروفایل گیت‌هاب می‌شوند… به صفحهٔ من خوش آمدی! 😄
+
+## کمی دربارهٔ من
+
+- 🧑‍💻 ابزارهای ویندوزی و پلاگین‌های سرور ماینکرافت می‌سازم.
+- 🎬 انیمیشن سه‌بعدی را با بلندر می‌سازم؛ دو ویدئوی آخر مجموعهٔ اصلی‌ام با افتر افکت هم تدوین شده‌اند.
+- 📚 پروژهٔ کتاب «آموزش انیمیشن سازی تصویری» برای من پیوند انیمیشن و آموزش است؛ نام برادر دوقلویم ارمیا · ArmiyaFbix هم در این رزومه کنار من آمده است.
+- 🤝 پلاگین Vexland_Manhunt حاصل همکاری من و دوستم علی · Alivexor است.
+
+<!-- PLAYFUL_ABOUT_END -->
+
 ## نمونه‌کارها
 
 <!-- ANIMATION_SHOWCASE_START -->
 ### [رزومهٔ انیمیشن و آثار تصویری](https://github.com/FarlandGame/Animation-Portfolio)
+
+<!-- PLAYFUL_ANIMATION_START -->
+> شخصیت‌های مکعبی، ایده‌های بزرگ و مأموریت فرعی مشترک همهٔ انیماتورها: منتظر ماندن برای رندر! 🎬🍿
+<!-- PLAYFUL_ANIMATION_END -->
 
 **بردیا علیزاده، ملقب به کبیر · Farland_game — انیمیشن، تصویر کاراکتر و مراحل ساخت آثار.**
 
@@ -30,6 +48,10 @@
 <!-- BOOK_SHOWCASE_START -->
 ### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
 
+<!-- PLAYFUL_BOOK_START -->
+> حتی یک آدمک خطی هم حق دارد با شکوه وارد صحنه شود! امروز اولین ژست، قدم بعدی صحنهٔ کوچک خودت. 📚🎬
+<!-- PLAYFUL_BOOK_END -->
+
 <p align="center"><a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg" width="240" alt="جلد بنفش نسخهٔ فارسی کتاب آموزش انیمیشن سازی تصویری"></a></p>
 
 **پروژهٔ کتاب آموزش تصویری انیمیشن با نام دو برادر دوقلو: بردیا علیزاده، ملقب به کبیر · Farland_game و ارمیا علیزاده، ملقب به کبیر · ArmiyaFbix.**
@@ -51,6 +73,10 @@
 <!-- BOOK_SHOWCASE_END -->
 
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)
+
+<!-- PLAYFUL_MANHUNT_START -->
+> هانترها قطب‌نما می‌آورند؛ رانرها نقشه… و یک بهانه برای روز مبادا! 🎮🧭
+<!-- PLAYFUL_MANHUNT_END -->
 
 **یک تجربهٔ کامل رانر در برابر هانتر در ماینکرافت، ساختهٔ مشترک [بردیا علیزاده، ملقب به کبیر · Farland_game](https://github.com/FarlandGame) و [علی · Alivexor](https://github.com/Alivexor).**
 
@@ -113,6 +139,10 @@ Vexland_Manhunt آماده‌سازی مسابقه، نقش‌های تیمی، 
 
 ### [Farland_autcliker](https://github.com/FarlandGame/Farland_autcliker)
 
+<!-- PLAYFUL_AUTOCLICKER_START -->
+> یک کلیک وارد می‌شود، یک عالمه کلیک دنبالش! انگار ماوست نیروی کمکی استخدام کرده. 🖱️✨
+<!-- PLAYFUL_AUTOCLICKER_END -->
+
 <!-- APP_DOCUMENTATION -->
 **زبان‌های توضیحات (18):**
 
@@ -159,6 +189,10 @@ Farland_autcliker یک برنامهٔ ویندوزی ساختهٔ **بردیا �
 **فناوری‌ها:** Python · Tkinter · Windows API · PyInstaller
 
 ## لینک‌های من
+
+<!-- PLAYFUL_SOCIAL_START -->
+> پورتال بعدی را از این پایین انتخاب کن؛ ظاهراً کنار ساختن پروژه باید یک کلکسیون نام کاربری هم جمع کرد! 🌍🔗
+<!-- PLAYFUL_SOCIAL_END -->
 
 ### کانال‌ها و شبکه‌های اجتماعی
 

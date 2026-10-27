@@ -4,10 +4,28 @@
 
 **Bardiya Alizadeh** です。**Kabir**、**Farland_game** という名前でも活動しています。このページでは、ソフトウェアのプロジェクトや創作活動を紹介しています。
 
+<!-- PLAYFUL_ABOUT_START -->
+<p><a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/autoclicker.svg" width="82" height="82" alt="Farland_autcliker"></a> <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/manhunt.svg" width="82" height="82" alt="Vexland_Manhunt"></a> <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/book.svg" width="82" height="82" alt="Visual-Animation-Tutorial"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/animation.svg" width="82" height="82" alt="Animation-Portfolio"></a></p>
+
+> オートクリッカー、Manhunt プラグイン、アニメーション、そして本が GitHub のプロフィールに集合……ここが私のページです。😄
+
+## 私について、もう少し
+
+- 🧑‍💻 Windows 用ツールと Minecraft サーバー用プラグインを作っています。
+- 🎬 Blender で 3D アニメーションを制作し、メインシリーズの最新 2 本には After Effects での編集も加えています。
+- 📚 書籍プロジェクト Visual Animation Tutorial では、アニメーションと教えることをつなげています。このポートフォリオでは双子の兄弟 Armiya · ArmiyaFbix も共同制作者として紹介しています。
+- 🤝 Vexland_Manhunt は友人の Ali · Alivexor と共同制作しました。
+
+<!-- PLAYFUL_ABOUT_END -->
+
 ## 作品紹介
 
 <!-- ANIMATION_SHOWCASE_START -->
 ### [アニメーションとビジュアルのポートフォリオ](https://github.com/FarlandGame/Animation-Portfolio)
+
+<!-- PLAYFUL_ANIMATION_START -->
+> ブロック風のキャラクター、大きなアイデア。そしてアニメーター共通のサブクエスト――レンダリング待ち。🎬🍿
+<!-- PLAYFUL_ANIMATION_END -->
 
 **Bardiya Alizadeh（Kabir）· Farland_game — アニメーション、キャラクター画像、ビジュアル開発。**
 
@@ -30,6 +48,10 @@
 <!-- BOOK_SHOWCASE_START -->
 ### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
 
+<!-- PLAYFUL_BOOK_START -->
+> 棒人間だって、かっこよく登場したい！まずは最初のポーズから、次は自分だけの小さなシーンへ。📚🎬
+<!-- PLAYFUL_BOOK_END -->
+
 <p align="center"><a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg" width="240" alt="Visual Animation Tutorial ペルシア語版の紫色の表紙"></a></p>
 
 **双子の兄弟 Bardiya Alizadeh（Kabir）· Farland_game と Armiya Alizadeh（Kabir）· ArmiyaFbix による、図解アニメーション入門書のプロジェクトです。**
@@ -51,6 +73,10 @@
 <!-- BOOK_SHOWCASE_END -->
 
 ### [Vexland_Manhunt](https://github.com/FarlandGame/Vexland_Manhunt)
+
+<!-- PLAYFUL_MANHUNT_START -->
+> ハンターの持ち物はコンパス。ランナーの持ち物は作戦……と、念のための言い訳。🎮🧭
+<!-- PLAYFUL_MANHUNT_END -->
 
 **[Bardiya Alizadeh（Kabir）· Farland_game](https://github.com/FarlandGame) と [Ali · Alivexor](https://github.com/Alivexor) が共同制作した、Minecraftのランナー対ハンターを一通り楽しめるプラグインです。**
 
@@ -113,6 +139,10 @@ Bardiyaから、ちょっとしたMinecraftの軽口です 😄
 
 ### [Farland_autcliker](https://github.com/FarlandGame/Farland_autcliker)
 
+<!-- PLAYFUL_AUTOCLICKER_START -->
+> ワンクリックの後ろから、クリックの応援団がぞろぞろ。マウスが助っ人を呼んだみたいです。🖱️✨
+<!-- PLAYFUL_AUTOCLICKER_END -->
+
 <!-- APP_DOCUMENTATION -->
 **説明の言語 (18):**
 
@@ -159,6 +189,10 @@ Farland_autcliker は、**Bardiya Alizadeh（Kabir）／活動名 Farland_game**
 **使用技術：** Python · Tkinter · Windows API · PyInstaller
 
 ## リンク
+
+<!-- PLAYFUL_SOCIAL_START -->
+> 次のポータルは下のリンクから。作品を作っていたら、ユーザー名のコレクションまで増えていました。🌍🔗
+<!-- PLAYFUL_SOCIAL_END -->
 
 ### チャンネルと SNS
 
