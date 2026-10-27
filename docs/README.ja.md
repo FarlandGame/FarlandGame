@@ -6,6 +6,27 @@
 
 ## 作品紹介
 
+<!-- ANIMATION_SHOWCASE_START -->
+### [アニメーションとビジュアルのポートフォリオ](https://github.com/FarlandGame/Animation-Portfolio)
+
+**Bardiya Alizadeh（Kabir）· Farland_game — アニメーション、キャラクター画像、ビジュアル開発。**
+
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="メイン映像 08 の黄色と黒の Farland Game 紹介カード"></a></p>
+
+**22 本の映像**と **161 点の画像**を収録。初期の短い 3D 習作から、Minecraft 風のキャラクターシーン、Roblox のアニメーション・編集映像、ポスター、制作画面まで紹介します。メインの 8 本は小さい番号から大きい番号へ古い順に並び、11 本の Roblox 映像と 3 本の初期習作は、それぞれ独立した番号付きコレクションになっています。画像は種類や内容別にまとめ、時系列順にはしていません。
+
+アニメーション制作には **Blender** を使い、メイン **07・08** は **After Effects** での編集も加えています。最後のメイン映像 **08** は **3840×2160（4K）** のファイルで、黄色と黒のカードに Farland Game、Alivexor、Armiya Fabix を紹介しています。**04 は未完成**で、08 にも次のパートを制作中という画面内の案内があります。
+
+各映像には内容を説明するタイトル、代表フレーム、再生時間、解像度、軽量な視聴用抜粋、全編のダウンロード先を付けています。**21 本は元ファイルのままで、04 は容量削減の希望により全編収録の 1080p 再圧縮視聴版を公開しています。**画像ギャラリーではフル解像度の元画像を閲覧でき、ポスター、シーンのプレビュー、キャラクター、グラフィック、スクリーンショット、参考資料を分けています。
+
+[メインシリーズ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md) · [Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/roblox.md) · [初期の習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/early.md) · [画像ギャラリー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/index.md)
+
+**紹介ページとナビゲーションの言語（18）：**
+
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
+
+<!-- ANIMATION_SHOWCASE_END -->
+
 <!-- BOOK_SHOWCASE_START -->
 ### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
 

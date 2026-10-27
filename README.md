@@ -6,6 +6,27 @@ I'm **Bardiya Alizadeh**, also known as **Kabir** and **Farland_game**. This pag
 
 ## Featured work
 
+<!-- ANIMATION_SHOWCASE_START -->
+### [Animation & Visual Portfolio](https://github.com/FarlandGame/Animation-Portfolio)
+
+**Bardiya Alizadeh (Kabir) · Farland_game — animation, character imagery and visual development.**
+
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="Yellow-and-black Farland Game profile card from main animation 08"></a></p>
+
+Explore **22 videos** and **161 images**, from early short 3D studies to Minecraft-style character scenes, Roblox animation/edit montages, posters and behind-the-scenes project screenshots. The main eight-film sequence preserves my older-to-newer numbering; eleven Roblox clips and three early studies have their own numbered collections. Images are grouped by subject and type, without a chronological order.
+
+I use **Blender** for animation; main entries **07 and 08** also include **After Effects** editing. The latest main entry, **08**, is supplied at **3840×2160 (4K)** and introduces Farland Game, Alivexor and Armiya Fabix in yellow-and-black profile cards. Entry **04 is unfinished**, and 08 includes an on-screen note that the next part is still being made.
+
+Each video has a descriptive title, representative frame, duration, resolution, a lightweight viewing excerpt and a full-video download. **21 videos retain their original bytes; 04 is a complete-duration recompressed 1080p viewing copy, requested to reduce its download size.** The image galleries include full-resolution originals and separate categories for posters, scene previews, character imagery, graphics, screenshots and references.
+
+[Main sequence](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md) · [Roblox collection](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/roblox.md) · [Early studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/early.md) · [Visual gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/index.md)
+
+**Introduction and navigation languages (18):**
+
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
+
+<!-- ANIMATION_SHOWCASE_END -->
+
 <!-- BOOK_SHOWCASE_START -->
 ### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
 

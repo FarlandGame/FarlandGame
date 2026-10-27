@@ -6,6 +6,27 @@
 
 ## نمونه‌کارها
 
+<!-- ANIMATION_SHOWCASE_START -->
+### [رزومهٔ انیمیشن و آثار تصویری](https://github.com/FarlandGame/Animation-Portfolio)
+
+**بردیا علیزاده، ملقب به کبیر · Farland_game — انیمیشن، تصویر کاراکتر و مراحل ساخت آثار.**
+
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="کارت معرفی زرد و مشکی Farland Game در انیمیشن شمارهٔ ۸"></a></p>
+
+این مجموعه **۲۲ ویدئو** و **۱۶۱ تصویر** دارد؛ از تمرین‌های کوتاه و قدیمی سه‌بعدی تا صحنه‌های کاراکتری با سبک ماینکرافت، انیمیشن و ادیت روبلاکس، پوستر و تصویرهای پشت صحنهٔ پروژه‌ها. هشت ویدئوی اصلی با ترتیب شماره‌ها از قدیمی به جدید معرفی شده‌اند؛ یازده ویدئوی روبلاکس و سه تمرین اولیه هم مجموعه و شماره‌بندی جدا دارند. عکس‌ها بر اساس نوع و موضوع دسته‌بندی شده‌اند و ترتیب زمانی ندارند.
+
+برای انیمیشن‌سازی از **Blender** استفاده می‌کنم؛ شماره‌های **۷ و ۸** مجموعهٔ اصلی با **After Effects** نیز تدوین شده‌اند. آخرین اثر اصلی، شمارهٔ **۸**، فایل **4K با وضوح ۳۸۴۰×۲۱۶۰** دارد و Farland Game، Alivexor و Armiya Fabix را در کارت‌های زرد و مشکی معرفی می‌کند. **شمارهٔ ۴ نیمه‌تمام است** و در پایان شمارهٔ ۸ هم نوشته شده بخش بعدی هنوز در حال ساخت است.
+
+برای هر ویدئو، عنوان توصیفی، فریم نمونه، مدت، وضوح، گزیدهٔ سبک قابل تماشا و دانلود ویدئوی کامل آماده شده است. **۲۱ ویدئو همان فایل‌های اصلی بدون تغییرند؛ شمارهٔ ۴ طبق انتخاب من، برای کاهش حجم با تمام مدت و وضوح 1080p دوباره فشرده شده است.** گالری تصویرها نیز نسخهٔ اصلی با وضوح کامل را دارد و پوستر، پیش‌نمایش صحنه، تصویر کاراکتر، طرح گرافیکی، اسکرین‌شات و تصویر مرجع را جدا معرفی می‌کند.
+
+[مجموعهٔ اصلی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md) · [مجموعهٔ روبلاکس](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/roblox.md) · [تمرین‌های اولیه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/early.md) · [گالری تصویرها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/index.md)
+
+**زبان‌های معرفی و راهنمای مرور (۱۸ زبان):**
+
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
+
+<!-- ANIMATION_SHOWCASE_END -->
+
 <!-- BOOK_SHOWCASE_START -->
 ### [Visual Animation Tutorial · آموزش انیمیشن سازی تصویری](https://github.com/FarlandGame/Visual-Animation-Tutorial)
 
