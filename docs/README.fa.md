@@ -35,6 +35,24 @@
 
 ## نمونه‌کارها
 
+<!-- GOLDBRAIN_SHOWCASE_START -->
+### [GoldBrain 🧠✨](https://github.com/FarlandGame/GoldBrain)
+
+**هفت ماه یادگیری، یک تجربهٔ بلندپروازانه در تحلیل بازارهای مالی و پروژه‌ای نیمه‌تمام که می‌توانید ادامه‌اش بدهید.**
+
+کاری مشترک از **بردیا علیزاده (کبیر) · Farland_game** و برادر دوقلویم **ارمیا علیزاده (کبیر) · ArmiyaFbix**. با تجربهٔ کمی در برنامه‌نویسی شروع کردم و با آزمون‌وخطا، منابع آنلاین و کمک هوش مصنوعی یاد گرفتم. این پروژه رابط متحرک Flutter را با بک‌اند Python/FastAPI، داده‌های بازار، خبرها، پیش‌بینی پژوهشی و APIهای معاملهٔ شبیه‌سازی‌شده ترکیب می‌کند.
+
+چشم‌انداز بزرگ‌تر برای Windows و Android شامل پیش‌بینی‌های کوتاه‌مدت و بلندمدت و معاملهٔ خودکار در والکس با بودجهٔ انتخابی کاربر بود. به‌دلیل نیازهای زیرساختی، هزینه، پیچیدگی و ریسک مالی، دنبال‌کردن تمام این چشم‌انداز را متوقف کردم. **سیستم پیش‌بینی نهایی و معامله با پول واقعی تکمیل یا اعتبارسنجی نشدند.** سورس حفظ‌شده، وضعیت بخش‌ها و راهنمای ادامهٔ پروژه اینجاست تا هرکس خواست کار را مطالعه کند یا ادامه بدهد.
+
+> مغز نقشه‌های بزرگی داشت؛ قبض زیرساخت هم برای خودش نقشه داشت! 🧠🧾😅
+
+<p><a href="https://github.com/FarlandGame/GoldBrain"><img src="https://raw.githubusercontent.com/FarlandGame/GoldBrain/main/assets/historical-promo-poster.png" width="640" alt="پوستر تبلیغاتی تاریخی GoldBrain؛ چشم‌انداز اولیه، نه نسخهٔ فعلی تأییدشده"></a></p>
+
+*پوستر تبلیغاتی تاریخی؛ بیانگر چشم‌انداز اولیهٔ پروژه است، نه یک نسخهٔ فعلیِ تأییدشده.*
+
+[سورس و داستان پروژه](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.fa.md) · [راهنمای ادامهٔ پروژه](https://github.com/FarlandGame/GoldBrain/blob/main/docs/CONTINUING.md) · [وضعیت فعلی](https://github.com/FarlandGame/GoldBrain/blob/main/docs/CURRENT_STATUS.md) · [English](https://github.com/FarlandGame/GoldBrain/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.ja.md)
+<!-- GOLDBRAIN_SHOWCASE_END -->
+
 <!-- ANIMATION_SHOWCASE_START -->
 ### [رزومهٔ انیمیشن و آثار تصویری](https://github.com/FarlandGame/Animation-Portfolio)
 

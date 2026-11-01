@@ -35,6 +35,24 @@
 
 ## 作品紹介
 
+<!-- GOLDBRAIN_SHOWCASE_START -->
+### [GoldBrain 🧠✨](https://github.com/FarlandGame/GoldBrain)
+
+**7か月の学びと、大きな構想から生まれた金融情報分析の実験。未完成のプロジェクトを、次の開発者へ。**
+
+**Bardiya Alizadeh（Kabir）· Farland_game** と、双子の兄弟 **Armiya Alizadeh（Kabir）· ArmiyaFbix** の共同制作です。私はプログラミング経験が少ない状態から始め、試行錯誤、オンライン資料、AIの支援を通じて学びました。アニメーションを使った Flutter の画面と Python/FastAPI のバックエンドを組み合わせ、市場データ、ニュース、研究用の予測、模擬取引APIを実装しています。
+
+より大きな Windows/Android 向け構想では、短期・長期の予測と、利用者が指定した予算による Wallex の自動取引を目指していました。しかし、インフラ要件、費用、複雑さ、金融リスクを理由に、その全体構想の追求を中断しました。**最終的な予測システムと実資金での取引は、完成・検証に至っていません。** 作業を学んだり引き継いだりしたい方のために、ソース、現状の記録、開発継続ガイドを残しています。
+
+> 頭脳には大きな計画がありました。インフラの請求書にも、独自の計画があったようです。🧠🧾😅
+
+<p><a href="https://github.com/FarlandGame/GoldBrain"><img src="https://raw.githubusercontent.com/FarlandGame/GoldBrain/main/assets/historical-promo-poster.png" width="640" alt="GoldBrainの過去の宣伝ポスター。当初の構想であり、現在の動作確認済みリリースではありません"></a></p>
+
+*過去の宣伝ポスターです。当初の構想を示すもので、現在の動作確認済みリリースを表すものではありません。*
+
+[ソースと制作の経緯](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.ja.md) · [開発継続ガイド](https://github.com/FarlandGame/GoldBrain/blob/main/docs/CONTINUING.md) · [現在の状況](https://github.com/FarlandGame/GoldBrain/blob/main/docs/CURRENT_STATUS.md) · [English](https://github.com/FarlandGame/GoldBrain/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.ja.md)
+<!-- GOLDBRAIN_SHOWCASE_END -->
+
 <!-- ANIMATION_SHOWCASE_START -->
 ### [アニメーションとビジュアルのポートフォリオ](https://github.com/FarlandGame/Animation-Portfolio)
 

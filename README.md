@@ -35,6 +35,24 @@ I'd love to see your take on **my Minecraft and Roblox avatars**, or a cartoon o
 
 ## Featured work
 
+<!-- GOLDBRAIN_SHOWCASE_START -->
+### [GoldBrain 🧠✨](https://github.com/FarlandGame/GoldBrain)
+
+**Seven months of learning, an ambitious financial-intelligence experiment, and an unfinished project you can continue.**
+
+Created together by **Bardiya Alizadeh (Kabir) · Farland_game** and my twin brother **Armiya Alizadeh (Kabir) · ArmiyaFbix**. I started with little programming experience and learned through experiments, online resources and AI assistance. The work combines an animated Flutter interface with a Python/FastAPI backend, market data, news, research forecasts and paper-trading APIs.
+
+The bigger Windows/Android vision included short- and long-term predictions and automatic Wallex trading with a user-selected budget. I stopped pursuing that full vision because of infrastructure demands, costs, complexity and financial risk. **The final prediction system and real-money trading were not completed or validated.** The preserved source, status notes and continuation guide are here for anyone who wants to study the work or carry it forward.
+
+> The brain had big plans. The infrastructure invoice had plans of its own. 🧠🧾😅
+
+<p><a href="https://github.com/FarlandGame/GoldBrain"><img src="https://raw.githubusercontent.com/FarlandGame/GoldBrain/main/assets/historical-promo-poster.png" width="640" alt="Historical GoldBrain promotional poster; original vision, not a verified current release"></a></p>
+
+*Historical promotional poster: original project vision, not a verified current release.*
+
+[Source & project story](https://github.com/FarlandGame/GoldBrain) · [Continue the project](https://github.com/FarlandGame/GoldBrain/blob/main/docs/CONTINUING.md) · [Current status](https://github.com/FarlandGame/GoldBrain/blob/main/docs/CURRENT_STATUS.md) · [English](https://github.com/FarlandGame/GoldBrain/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.ja.md)
+<!-- GOLDBRAIN_SHOWCASE_END -->
+
 <!-- ANIMATION_SHOWCASE_START -->
 ### [Animation & Visual Portfolio](https://github.com/FarlandGame/Animation-Portfolio)
 
