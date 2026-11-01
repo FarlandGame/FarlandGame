@@ -46,7 +46,7 @@
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="メイン映像 08 の黄色と黒の Farland Game 紹介カード"></a></p>
 
-**22 本の映像**と **161 点の画像**を収録。初期の短い 3D 習作から、Minecraft 風のキャラクターシーン、Roblox のアニメーション・編集映像、ポスター、制作画面まで紹介します。メインの 8 本は小さい番号から大きい番号へ古い順に並び、11 本の Roblox 映像と 3 本の初期習作は、それぞれ独立した番号付きコレクションになっています。画像は種類や内容別にまとめ、時系列順にはしていません。
+**22 本の映像**と **162 点の画像**を収録。初期の短い 3D 習作から、Minecraft 風のキャラクターシーン、Roblox のアニメーション・編集映像、ポスター、制作画面まで紹介します。メインの 8 本は小さい番号から大きい番号へ古い順に並び、11 本の Roblox 映像と 3 本の初期習作は、それぞれ独立した番号付きコレクションになっています。画像は種類や内容別にまとめ、時系列順にはしていません。
 
 アニメーション制作には **Blender** を使い、メイン **07・08** は **After Effects** での編集も加えています。最後のメイン映像 **08** は **3840×2160（4K）** のファイルで、黄色と黒のカードに Farland Game、Alivexor、Armiya Fabix を紹介しています。**04 は未完成**で、08 にも次のパートを制作中という画面内の案内があります。
 
@@ -57,6 +57,12 @@
 **紹介ページとナビゲーションの言語（18）：**
 
 [English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
+
+<!-- CHARACTER_CARICATURE_START -->
+Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャラクターのカリカチュア。黒い立方体の頭、白い F と G のマークが付いた黒いパーカー、白い手袋、黒い靴が特徴です。😎🎨
+
+<p><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャラクターのカリカチュア。黒い立方体の頭、白い F と G のマークが付いた黒いパーカー、白い手袋、黒い靴が特徴です。😎🎨"></a></p>
+<!-- CHARACTER_CARICATURE_END -->
 
 <!-- ANIMATION_SHOWCASE_END -->
 

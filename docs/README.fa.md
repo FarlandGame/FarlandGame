@@ -46,7 +46,7 @@
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="کارت معرفی زرد و مشکی Farland Game در انیمیشن شمارهٔ ۸"></a></p>
 
-این مجموعه **۲۲ ویدئو** و **۱۶۱ تصویر** دارد؛ از تمرین‌های کوتاه و قدیمی سه‌بعدی تا صحنه‌های کاراکتری با سبک ماینکرافت، انیمیشن و ادیت روبلاکس، پوستر و تصویرهای پشت صحنهٔ پروژه‌ها. هشت ویدئوی اصلی با ترتیب شماره‌ها از قدیمی به جدید معرفی شده‌اند؛ یازده ویدئوی روبلاکس و سه تمرین اولیه هم مجموعه و شماره‌بندی جدا دارند. عکس‌ها بر اساس نوع و موضوع دسته‌بندی شده‌اند و ترتیب زمانی ندارند.
+این مجموعه **۲۲ ویدئو** و **۱۶۲ تصویر** دارد؛ از تمرین‌های کوتاه و قدیمی سه‌بعدی تا صحنه‌های کاراکتری با سبک ماینکرافت، انیمیشن و ادیت روبلاکس، پوستر و تصویرهای پشت صحنهٔ پروژه‌ها. هشت ویدئوی اصلی با ترتیب شماره‌ها از قدیمی به جدید معرفی شده‌اند؛ یازده ویدئوی روبلاکس و سه تمرین اولیه هم مجموعه و شماره‌بندی جدا دارند. عکس‌ها بر اساس نوع و موضوع دسته‌بندی شده‌اند و ترتیب زمانی ندارند.
 
 برای انیمیشن‌سازی از **Blender** استفاده می‌کنم؛ شماره‌های **۷ و ۸** مجموعهٔ اصلی با **After Effects** نیز تدوین شده‌اند. آخرین اثر اصلی، شمارهٔ **۸**، فایل **4K با وضوح ۳۸۴۰×۲۱۶۰** دارد و Farland Game، Alivexor و Armiya Fabix را در کارت‌های زرد و مشکی معرفی می‌کند. **شمارهٔ ۴ نیمه‌تمام است** و در پایان شمارهٔ ۸ هم نوشته شده بخش بعدی هنوز در حال ساخت است.
 
@@ -57,6 +57,12 @@
 **زبان‌های معرفی و راهنمای مرور (۱۸ زبان):**
 
 [English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
+
+<!-- CHARACTER_CARICATURE_START -->
+کاریکاتور کاراکتر، طراحی بردیا علیزاده (کبیر)، با نام هنری Farland_game: شخصیتی با سر مکعبی مشکی، هودی مشکی با نشان‌های سفید F و G، دستکش سفید و کفش مشکی. 😎🎨
+
+<p><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="کاریکاتور کاراکتر، طراحی بردیا علیزاده (کبیر)، با نام هنری Farland_game: شخصیتی با سر مکعبی مشکی، هودی مشکی با نشان‌های سفید F و G، دستکش سفید و کفش مشکی. 😎🎨"></a></p>
+<!-- CHARACTER_CARICATURE_END -->
 
 <!-- ANIMATION_SHOWCASE_END -->
 

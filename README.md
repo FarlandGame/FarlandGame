@@ -46,7 +46,7 @@ I'd love to see your take on **my Minecraft and Roblox avatars**, or a cartoon o
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="Yellow-and-black Farland Game profile card from main animation 08"></a></p>
 
-Explore **22 videos** and **161 images**, from early short 3D studies to Minecraft-style character scenes, Roblox animation/edit montages, posters and behind-the-scenes project screenshots. The main eight-film sequence preserves my older-to-newer numbering; eleven Roblox clips and three early studies have their own numbered collections. Images are grouped by subject and type, without a chronological order.
+Explore **22 videos** and **162 images**, from early short 3D studies to Minecraft-style character scenes, Roblox animation/edit montages, posters and behind-the-scenes project screenshots. The main eight-film sequence preserves my older-to-newer numbering; eleven Roblox clips and three early studies have their own numbered collections. Images are grouped by subject and type, without a chronological order.
 
 I use **Blender** for animation; main entries **07 and 08** also include **After Effects** editing. The latest main entry, **08**, is supplied at **3840×2160 (4K)** and introduces Farland Game, Alivexor and Armiya Fabix in yellow-and-black profile cards. Entry **04 is unfinished**, and 08 includes an on-screen note that the next part is still being made.
 
@@ -57,6 +57,12 @@ Each video has a descriptive title, representative frame, duration, resolution, 
 **Introduction and navigation languages (18):**
 
 [English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
+
+<!-- CHARACTER_CARICATURE_START -->
+Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game: a black cube-headed figure in a black hoodie with white F and G emblems, white gloves and black shoes. 😎🎨
+
+<p><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game: a black cube-headed figure in a black hoodie with white F and G emblems, white gloves and black shoes. 😎🎨"></a></p>
+<!-- CHARACTER_CARICATURE_END -->
 
 <!-- ANIMATION_SHOWCASE_END -->
 
