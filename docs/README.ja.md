@@ -33,6 +33,32 @@
 
 <!-- PLAYFUL_ABOUT_END -->
 
+<!-- CREDENTIALS_SHOWCASE_START -->
+## 画面の外でも：スピーチと水泳 🎤🏊
+
+創作だけが私の練習の場ではありません。ここでは、スピーチ講座の修了記録、水泳関連の参加証明書、そして大会についての私自身の記憶を紹介します。
+
+### [スピーチとプレゼンテーション 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md)
+
+**スピーチ講座 · 30時間 · 100/100点**
+
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt=""></a>
+
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="420" alt="公開用に国民識別番号を非表示"></a>
+
+### [水泳と大会での経験 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
+
+**水泳・ライフセービングの参加記録**
+
+MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶しています。大会の日付、泳法、距離、年齢区分は覚えていません。写真の二つの証明書には順位が書かれていないため、この記憶を、それらの書類で証明された順位としては扱っていません。
+
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
+
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="420" alt="水泳・ライフセービングの参加記録"></a>
+
+[スピーチとプレゼンテーション 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md) · [水泳と大会での経験 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
+<!-- CREDENTIALS_SHOWCASE_END -->
+
 ## 作品紹介
 
 <!-- GOLDBRAIN_SHOWCASE_START -->

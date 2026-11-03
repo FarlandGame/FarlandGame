@@ -33,6 +33,32 @@ I'd love to see your take on **my Minecraft and Roblox avatars**, or a cartoon o
 
 <!-- PLAYFUL_ABOUT_END -->
 
+<!-- CREDENTIALS_SHOWCASE_START -->
+## Beyond the screen: voice & swimming 🎤🏊
+
+Creativity is not my only training ground. Here are my public-speaking course record and swimming participation documents, alongside my own competition recollection.
+
+### [Public Speaking & Presentation 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.en.md)
+
+**Public-speaking course · 30 hours · 100/100**
+
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt=""></a>
+
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.en.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="420" alt="National ID redacted for public sharing"></a>
+
+### [Swimming & Competition Experience 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md)
+
+**Swimming and lifesaving participation records**
+
+I recall placing first in a swimming competition at Rasad Pool, Maragheh. I do not remember the event date, stroke, distance or age category. Neither photographed certificate states a placing, so this recollection is not presented as a rank certified by these documents.
+
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
+
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="420" alt="Swimming and lifesaving participation records"></a>
+
+[Public Speaking & Presentation 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.en.md) · [Swimming & Competition Experience 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md)
+<!-- CREDENTIALS_SHOWCASE_END -->
+
 ## Featured work
 
 <!-- GOLDBRAIN_SHOWCASE_START -->

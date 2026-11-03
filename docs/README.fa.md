@@ -33,6 +33,32 @@
 
 <!-- PLAYFUL_ABOUT_END -->
 
+<!-- CREDENTIALS_SHOWCASE_START -->
+## فراتر از صفحه‌نمایش: فن بیان و شنا 🎤🏊
+
+خلاقیت تنها زمینهٔ تمرین من نیست. اینجا سابقهٔ دورهٔ فن بیان و مدارک شرکت در رویدادهای شنا را، در کنار خاطرهٔ شخصی‌ام از مسابقه، معرفی می‌کنم.
+
+### [فن بیان و مهارت ارائه 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.fa.md)
+
+**دورهٔ فن بیان · ۳۰ ساعت · ۱۰۰/۱۰۰**
+
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt=""></a>
+
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.fa.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="420" alt="شمارهٔ ملی برای انتشار عمومی پوشانده شده است"></a>
+
+### [شنا و تجربهٔ مسابقه 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fa.md)
+
+**سوابق شرکت در رویدادهای شنا و نجات غریق**
+
+به یاد دارم که در یک مسابقهٔ شنا در استخر رصد مراغه نفر اول شدم. تاریخ مسابقه، مادهٔ شنا، مسافت یا ردهٔ سنی را به یاد ندارم. هیچ‌کدام از دو گواهیِ عکس‌شده رتبه‌ای را ذکر نمی‌کنند؛ بنابراین این خاطره را به‌عنوان رتبهٔ تأییدشده با این مدارک معرفی نمی‌کنم.
+
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
+
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fa.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="420" alt="سوابق شرکت در رویدادهای شنا و نجات غریق"></a>
+
+[فن بیان و مهارت ارائه 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.fa.md) · [شنا و تجربهٔ مسابقه 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fa.md)
+<!-- CREDENTIALS_SHOWCASE_END -->
+
 ## نمونه‌کارها
 
 <!-- GOLDBRAIN_SHOWCASE_START -->
