@@ -90,11 +90,11 @@ The bigger Windows/Android vision included short- and long-term predictions and 
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="Yellow-and-black Farland Game profile card from main animation 08"></a></p>
 
-Explore **22 videos** and **162 images**, from early short 3D studies to Minecraft-style character scenes, Roblox animation/edit montages, posters and behind-the-scenes project screenshots. The main eight-film sequence preserves my older-to-newer numbering; eleven Roblox clips and three early studies have their own numbered collections. Images are grouped by subject and type, without a chronological order.
+35 video files across four collections and 208 images. The original main sequence has eight videos, Roblox has eleven, and early studies has three; the historical phone-era archive adds thirteen video files and 46 school-location photographs to the earlier 162-image gallery. The historical files include animation, mixed media, in-game capture and a channel opening; not every file is a rendered animated film.
 
 I use **Blender** for animation; main entries **07 and 08** also include **After Effects** editing. The latest main entry, **08**, is supplied at **3840×2160 (4K)** and introduces Farland Game, Alivexor and Armiya Fabix in yellow-and-black profile cards. Entry **04 is unfinished**, and 08 includes an on-screen note that the next part is still being made.
 
-Each video has a descriptive title, representative frame, duration, resolution, a lightweight viewing excerpt and a full-video download. **21 videos retain their original bytes; 04 is a complete-duration recompressed 1080p viewing copy, requested to reduce its download size.** The image galleries include full-resolution originals and separate categories for posters, scene previews, character imagery, graphics, screenshots and references.
+Browse numbered films, actual frame previews, running time, resolution and full-download links. Short playable samples are excerpts. Full downloads contain 31 unchanged original video files and four complete-duration recompressed copies: main 04, plus phone-era 8, 11 and 12, at the creator's request. Their original source files remain unchanged locally; source and published-copy hashes are distinguished. No file was shortened to make a full viewing copy. School-photo originals are supplied as one source pack.
 
 [Main sequence](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md) · [Roblox collection](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/roblox.md) · [Early studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/early.md) · [Visual gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/index.md)
 
@@ -107,6 +107,21 @@ Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game
 
 <p><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game: a black cube-headed figure in a black hoodie with white F and G emblems, white gloves and black shoes. 😎🎨"></a></p>
 <!-- CHARACTER_CARICATURE_END -->
+
+
+<!-- EARLY_PHONE_SHOWCASE_START -->
+### [Early Phone-Era Archive 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/index.md)
+
+These are the surviving exports from my early phone-based creative years: StickNodes-era animation, a mixed-media school biography, Minecraft storytelling, my first original mobile 3D scene and an early channel opening. I have grown beyond their rough edges, but keeping them makes the learning visible. They are historical work, not a showcase of my current production quality.
+
+> My first frames had big confidence. The keyframes were still catching up. 📱😄
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg" width="72" alt=""></a>
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/stills/phone-08.jpg" width="480" alt="Coordinates: the unsubmitted Khwarizmi project"></a>
+
+[Open the early phone-era archive](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/index.md) · [School-location reference gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/school-01.md)
+<!-- EARLY_PHONE_SHOWCASE_END -->
 
 <!-- ANIMATION_SHOWCASE_END -->
 

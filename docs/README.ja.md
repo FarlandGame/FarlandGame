@@ -90,11 +90,11 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="メイン映像 08 の黄色と黒の Farland Game 紹介カード"></a></p>
 
-**22 本の映像**と **162 点の画像**を収録。初期の短い 3D 習作から、Minecraft 風のキャラクターシーン、Roblox のアニメーション・編集映像、ポスター、制作画面まで紹介します。メインの 8 本は小さい番号から大きい番号へ古い順に並び、11 本の Roblox 映像と 3 本の初期習作は、それぞれ独立した番号付きコレクションになっています。画像は種類や内容別にまとめ、時系列順にはしていません。
+4つのコレクションに計35本の動画ファイルと208枚の画像を収録しています。従来のメインシリーズは8本、Robloxは11本、初期習作は3本です。スマートフォン創作初期のアーカイブでは、13本の動画ファイルと学校のロケーション写真46枚を追加し、以前の162枚の画像ギャラリーを拡充しています。過去のファイルにはアニメーション、複数メディアの組み合わせ、ゲーム内録画、チャンネルオープニングがあり、すべてがレンダリングされたアニメーション映画というわけではありません。
 
 アニメーション制作には **Blender** を使い、メイン **07・08** は **After Effects** での編集も加えています。最後のメイン映像 **08** は **3840×2160（4K）** のファイルで、黄色と黒のカードに Farland Game、Alivexor、Armiya Fabix を紹介しています。**04 は未完成**で、08 にも次のパートを制作中という画面内の案内があります。
 
-各映像には内容を説明するタイトル、代表フレーム、再生時間、解像度、軽量な視聴用抜粋、全編のダウンロード先を付けています。**21 本は元ファイルのままで、04 は容量削減の希望により全編収録の 1080p 再圧縮視聴版を公開しています。**画像ギャラリーではフル解像度の元画像を閲覧でき、ポスター、シーンのプレビュー、キャラクター、グラフィック、スクリーンショット、参考資料を分けています。
+番号付きの作品、実際のフレームのプレビュー、再生時間、解像度、全編ダウンロードのリンクを確認できます。再生できる短いサンプルは抜粋です。全編ダウンロードには、変更していないオリジナル動画31本と、全長を保って再圧縮した4本を用意しています。再圧縮したのは、制作者の希望によるメイン04とスマートフォン時代の8・11・12です。元のソースファイルはローカルで変更せずに保管し、ソースと公開用コピーのハッシュを区別しています。全編視聴用コピーを作るために短縮したファイルはありません。学校写真の原本は1つの資料パックにまとめています。
 
 [メインシリーズ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md) · [Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/roblox.md) · [初期の習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/early.md) · [画像ギャラリー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/index.md)
 
@@ -107,6 +107,21 @@ Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャ�
 
 <p><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャラクターのカリカチュア。黒い立方体の頭、白い F と G のマークが付いた黒いパーカー、白い手袋、黒い靴が特徴です。😎🎨"></a></p>
 <!-- CHARACTER_CARICATURE_END -->
+
+
+<!-- EARLY_PHONE_SHOWCASE_START -->
+### [スマートフォン創作初期のアーカイブ 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md)
+
+スマートフォンで創作を始めた頃の、現存する書き出しファイルです。StickNodes時代のアニメーション、複数のメディアを組み合わせた学校の伝記課題、Minecraftでの物語、初めて自作したモバイル3Dシーン、初期のチャンネルオープニングが含まれます。今では当時の粗さを越えて成長しましたが、残しておくことで学びの過程が見えてきます。現在の制作品質を示す作品集ではなく、歩みを記録した過去の作品です。
+
+> 最初のフレームには自信がたっぷり。キーフレームは、まだ追いつこうとしていました。📱😄
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg" width="72" alt=""></a>
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/stills/phone-08.jpg" width="480" alt="座標：提出できなかったホラズミー作品"></a>
+
+[スマートフォン創作初期のアーカイブを開く](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md) · [学校のロケーション資料ギャラリー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/school-01.md)
+<!-- EARLY_PHONE_SHOWCASE_END -->
 
 <!-- ANIMATION_SHOWCASE_END -->
 

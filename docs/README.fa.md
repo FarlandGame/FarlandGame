@@ -90,11 +90,11 @@
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="کارت معرفی زرد و مشکی Farland Game در انیمیشن شمارهٔ ۸"></a></p>
 
-این مجموعه **۲۲ ویدئو** و **۱۶۲ تصویر** دارد؛ از تمرین‌های کوتاه و قدیمی سه‌بعدی تا صحنه‌های کاراکتری با سبک ماینکرافت، انیمیشن و ادیت روبلاکس، پوستر و تصویرهای پشت صحنهٔ پروژه‌ها. هشت ویدئوی اصلی با ترتیب شماره‌ها از قدیمی به جدید معرفی شده‌اند؛ یازده ویدئوی روبلاکس و سه تمرین اولیه هم مجموعه و شماره‌بندی جدا دارند. عکس‌ها بر اساس نوع و موضوع دسته‌بندی شده‌اند و ترتیب زمانی ندارند.
+۳۵ فایل ویدئویی در چهار مجموعه و ۲۰۸ تصویر. مجموعهٔ اصلی اولیه هشت ویدئو دارد، روبلاکس یازده و مطالعات اولیه سه؛ آرشیو تاریخی دورهٔ گوشی، سیزده فایل ویدئویی و ۴۶ عکس از فضای مدرسه به گالری قبلیِ ۱۶۲ تصویری اضافه می‌کند. فایل‌های تاریخی شامل انیمیشن، ترکیب چند رسانه، ضبط درون بازی و افتتاحیهٔ کانال‌اند؛ هر فایل لزوماً یک فیلم انیمیشنیِ رندرشده نیست.
 
 برای انیمیشن‌سازی از **Blender** استفاده می‌کنم؛ شماره‌های **۷ و ۸** مجموعهٔ اصلی با **After Effects** نیز تدوین شده‌اند. آخرین اثر اصلی، شمارهٔ **۸**، فایل **4K با وضوح ۳۸۴۰×۲۱۶۰** دارد و Farland Game، Alivexor و Armiya Fabix را در کارت‌های زرد و مشکی معرفی می‌کند. **شمارهٔ ۴ نیمه‌تمام است** و در پایان شمارهٔ ۸ هم نوشته شده بخش بعدی هنوز در حال ساخت است.
 
-برای هر ویدئو، عنوان توصیفی، فریم نمونه، مدت، وضوح، گزیدهٔ سبک قابل تماشا و دانلود ویدئوی کامل آماده شده است. **۲۱ ویدئو همان فایل‌های اصلی بدون تغییرند؛ شمارهٔ ۴ طبق انتخاب من، برای کاهش حجم با تمام مدت و وضوح 1080p دوباره فشرده شده است.** گالری تصویرها نیز نسخهٔ اصلی با وضوح کامل را دارد و پوستر، پیش‌نمایش صحنه، تصویر کاراکتر، طرح گرافیکی، اسکرین‌شات و تصویر مرجع را جدا معرفی می‌کند.
+فیلم‌های شماره‌دار، پیش‌نمایش فریم‌های واقعی، مدت، وضوح و پیوندهای دانلود کامل را مرور کنید. نمونه‌های کوتاهِ قابل پخش، گزیده‌اند. دانلودهای کامل شامل ۳۱ فایل ویدئویی اصلیِ بدون تغییر و چهار نسخهٔ بازفشرده‌شده با مدت کامل‌اند: شمارهٔ ۰۴ مجموعهٔ اصلی و شماره‌های ۸، ۱۱ و ۱۲ دورهٔ گوشی، به درخواست سازنده. فایل‌های منبع اصلی آن‌ها در محل نگهداری بدون تغییر مانده‌اند؛ هش منبع و نسخهٔ منتشرشده جدا مشخص می‌شوند. هیچ فایلی برای تهیهٔ نسخهٔ تماشای کامل کوتاه نشده است. اصل عکس‌های مدرسه در یک بستهٔ منابع ارائه می‌شود.
 
 [مجموعهٔ اصلی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md) · [مجموعهٔ روبلاکس](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/roblox.md) · [تمرین‌های اولیه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/early.md) · [گالری تصویرها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/index.md)
 
@@ -107,6 +107,21 @@
 
 <p><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="کاریکاتور کاراکتر، طراحی بردیا علیزاده (کبیر)، با نام هنری Farland_game: شخصیتی با سر مکعبی مشکی، هودی مشکی با نشان‌های سفید F و G، دستکش سفید و کفش مشکی. 😎🎨"></a></p>
 <!-- CHARACTER_CARICATURE_END -->
+
+
+<!-- EARLY_PHONE_SHOWCASE_START -->
+### [آرشیو سال‌های نخستِ کار با گوشی 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md)
+
+این‌ها خروجی‌های باقی‌مانده از سال‌های نخستِ کار خلاقانه‌ام با گوشی‌اند: انیمیشن‌های دورهٔ StickNodes، یک زندگی‌نامهٔ مدرسه‌ای با ترکیب چند رسانه، داستان‌گویی در ماینکرفت، نخستین صحنهٔ سه‌بعدیِ مستقل من با گوشی و یک افتتاحیهٔ قدیمی کانال. از خامی‌های آن‌ها عبور کرده‌ام، اما نگه‌داشتنشان مسیر یادگیری را نشان می‌دهد. این‌ها آثار تاریخیِ مسیر من‌اند، نه نمایش کیفیت تولید امروزم.
+
+> فریم‌های اولم اعتمادبه‌نفس زیادی داشتند. کی‌فریم‌ها هنوز داشتند خودشان را می‌رساندند. 📱😄
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg" width="72" alt=""></a>
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/stills/phone-08.jpg" width="480" alt="مختصات: پروژهٔ ارسال‌نشدهٔ خوارزمی"></a>
+
+[ورود به آرشیو سال‌های نخستِ کار با گوشی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md) · [گالری مرجع فضای مدرسه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/school-01.md)
+<!-- EARLY_PHONE_SHOWCASE_END -->
 
 <!-- ANIMATION_SHOWCASE_END -->
 
