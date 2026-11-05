@@ -36,7 +36,7 @@ I'd love to see your take on **my Minecraft and Roblox avatars**, or a cartoon o
 <!-- PERSONAL_SHOWCASE_START -->
 ## My Story — Kabir behind Farland_game 📸🎬
 
-I’m Bardiya Alizadeh, also known as Kabir and Farland_game. These 140 supplied images and 11 videos bring together childhood and personal memories, family and friends, book-related photos, portrait edits, and artwork from THE APEX, our Minecraft story-server project in progress. A short 11.67-second Minecraft-style animation is included too.
+I’m Bardiya Alizadeh, also known as Kabir and Farland_game. These 140 supplied images and 12 videos bring together childhood and personal memories, family and friends, book-related photos, portrait edits, and artwork from THE APEX, our Minecraft story-server project in progress. A short 11.67-second Minecraft-style animation is included too.
 
 > My quest log finally includes the person holding the controller. 🎮📸
 
