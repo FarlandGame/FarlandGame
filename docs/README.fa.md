@@ -33,6 +33,24 @@
 
 <!-- PLAYFUL_ABOUT_END -->
 
+<!-- MUSIC_SHOWCASE_START -->
+## موسیقی و طراحی کاور 🎧🎵
+
+دو پروژهٔ موسیقی با کمک هوش مصنوعی، به زبان ژاپنی و فارسی؛ ساخته و هدایت‌شده توسط بردیا علیزاده، ملقب به کبیر، با نام هنری Farland_game.
+
+> حالا فهرست مأموریت‌هایم موسیقی متن هم دارد؛ ظاهراً انیمیشن و کدنویسی هم آهنگ پس‌زمینه می‌خواستند! 🎮🎵
+
+<p><a href="https://farlandgame.github.io/Music-Portfolio/#come-rain"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/come-rain.png" width="300" alt="Come, Rain — Farland_game"></a> <a href="https://farlandgame.github.io/Music-Portfolio/#times-wheel-turns-back"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/times-wheel-turns-back.png" width="300" alt="Time’s Wheel Turns Back — Farland_game"></a></p>
+
+**[雨よ来い · Come, Rain](https://farlandgame.github.io/Music-Portfolio/#come-rain)**
+
+**[چرخ زمان بازمیگردد · Time’s Wheel Turns Back](https://farlandgame.github.io/Music-Portfolio/#times-wheel-turns-back)**
+
+ایده‌پردازی: Claude ← نوشتن ترانه: ChatGPT ← ساخت موسیقی: Suno ← استخراج صدا: InShot ← طراحی کاور: Photoshop و هوش مصنوعی. به گفتهٔ سازنده، هر دو اثر در SoundCloud او هم منتشر شده‌اند.
+
+[▶ شنیدن هر دو آهنگ](https://farlandgame.github.io/Music-Portfolio/) · [موسیقی و طراحی کاور](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.fa.md) · [SoundCloud](https://soundcloud.com/bardiya-kabir-798008614)
+<!-- MUSIC_SHOWCASE_END -->
+
 <!-- CREDENTIALS_SHOWCASE_START -->
 ## فراتر از صفحه‌نمایش: فن بیان و شنا 🎤🏊
 

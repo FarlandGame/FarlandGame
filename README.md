@@ -33,6 +33,24 @@ I'd love to see your take on **my Minecraft and Roblox avatars**, or a cartoon o
 
 <!-- PLAYFUL_ABOUT_END -->
 
+<!-- MUSIC_SHOWCASE_START -->
+## Music & Cover Art 🎧🎵
+
+Two AI-assisted music projects in Japanese and Persian, created and directed by Bardiya Alizadeh (Kabir), known as Farland_game.
+
+> My quest log now has a soundtrack. Apparently animation and coding needed background music. 🎮🎵
+
+<p><a href="https://farlandgame.github.io/Music-Portfolio/#come-rain"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/come-rain.png" width="300" alt="Come, Rain — Farland_game"></a> <a href="https://farlandgame.github.io/Music-Portfolio/#times-wheel-turns-back"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/times-wheel-turns-back.png" width="300" alt="Time’s Wheel Turns Back — Farland_game"></a></p>
+
+**[雨よ来い · Come, Rain](https://farlandgame.github.io/Music-Portfolio/#come-rain)**
+
+**[چرخ زمان بازمیگردد · Time’s Wheel Turns Back](https://farlandgame.github.io/Music-Portfolio/#times-wheel-turns-back)**
+
+Ideas: Claude → lyrics: ChatGPT → music: Suno → audio extraction: InShot → cover design: Photoshop + AI. The creator says both tracks were also published on his SoundCloud.
+
+[▶ Listen to both tracks](https://farlandgame.github.io/Music-Portfolio/) · [Music & Cover Art](https://github.com/FarlandGame/Music-Portfolio/blob/main/README.md) · [SoundCloud](https://soundcloud.com/bardiya-kabir-798008614)
+<!-- MUSIC_SHOWCASE_END -->
+
 <!-- CREDENTIALS_SHOWCASE_START -->
 ## Beyond the screen: voice & swimming 🎤🏊
 

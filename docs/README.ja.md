@@ -33,6 +33,24 @@
 
 <!-- PLAYFUL_ABOUT_END -->
 
+<!-- MUSIC_SHOWCASE_START -->
+## 音楽とカバーアート 🎧🎵
+
+日本語とペルシャ語による2つのAI活用音楽プロジェクト。制作・ディレクションはBardiya Alizadeh（Kabir）、活動名Farland_game。
+
+> クエスト一覧に、ついにサウンドトラックが。アニメ制作とコーディングにもBGMが必要だったみたいです！ 🎮🎵
+
+<p><a href="https://farlandgame.github.io/Music-Portfolio/#come-rain"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/come-rain.png" width="300" alt="Come, Rain — Farland_game"></a> <a href="https://farlandgame.github.io/Music-Portfolio/#times-wheel-turns-back"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/times-wheel-turns-back.png" width="300" alt="Time’s Wheel Turns Back — Farland_game"></a></p>
+
+**[雨よ来い · Come, Rain](https://farlandgame.github.io/Music-Portfolio/#come-rain)**
+
+**[چرخ زمان بازمیگردد · Time’s Wheel Turns Back](https://farlandgame.github.io/Music-Portfolio/#times-wheel-turns-back)**
+
+アイデア：Claude → 歌詞：ChatGPT → 音楽制作：Suno → 音声抽出：InShot → カバー制作：PhotoshopとAI。本人によると、両曲は自身のSoundCloudでも公開されています。
+
+[▶ 2曲を聴く](https://farlandgame.github.io/Music-Portfolio/) · [音楽とカバーアート](https://github.com/FarlandGame/Music-Portfolio/blob/main/docs/README.ja.md) · [SoundCloud](https://soundcloud.com/bardiya-kabir-798008614)
+<!-- MUSIC_SHOWCASE_END -->
+
 <!-- CREDENTIALS_SHOWCASE_START -->
 ## 画面の外でも：スピーチと水泳 🎤🏊
 
