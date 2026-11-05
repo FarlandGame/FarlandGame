@@ -33,6 +33,18 @@
 
 <!-- PLAYFUL_ABOUT_END -->
 
+<!-- PERSONAL_SHOWCASE_START -->
+## داستان من؛ کبیر پشت نام Farland_game 📸🎬
+
+من بردیا علیزاده، ملقب به کبیر و شناخته‌شده با نام هنری Farland_game هستم. این مجموعهٔ تحویلی شامل ۱۴۰ عکس و تصویر و ۱۱ ویدئو است: خاطرات کودکی و زندگی شخصی، خانواده و دوستان، تصاویر مربوط به کتاب، ادیت پرتره و آثار THE APEX، پروژهٔ در حال ساخت سرور داستانی ماینکرافت ما. یک انیمیشن کوتاه ۱۱٫۶۷ ثانیه‌ای با سبک ماینکرافت هم در این مجموعه هست.
+
+> بالاخره در فهرست مأموریت‌ها، خودِ کسی که دستهٔ بازی دستش است هم پیدا شد! 🎮📸
+
+<p><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="Book memories"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-096"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="230" alt="THE APEX"></a></p>
+
+[هر ۱۴۰ عکس و تصویر](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/fa/all.md) · [▶ ویدئوها و ادیت‌ها](https://farlandgame.github.io/Personal-Portfolio/?lang=fa) · [داستان من؛ کبیر پشت نام Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md)
+<!-- PERSONAL_SHOWCASE_END -->
+
 <!-- MUSIC_SHOWCASE_START -->
 ## موسیقی و طراحی کاور 🎧🎵
 
