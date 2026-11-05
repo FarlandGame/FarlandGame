@@ -321,6 +321,7 @@ Farland_autcliker は、**Bardiya Alizadeh（Kabir）／活動名 Farland_game**
 | プラットフォーム | チャンネル／ページ |
 | --- | --- |
 | GitHub | [FarlandGame](https://github.com/FarlandGame) |
+| 仕事の連絡先 | [farland.game158@gmail.com](mailto:farland.game158@gmail.com) |
 | Roblox | [farland_game0 · Farland_game](https://www.roblox.com/users/7889384276/profile) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | Rubika チャンネル | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |

@@ -321,6 +321,7 @@ The public Windows ZIP includes the executable, source code, an interface previe
 | Platform | Channels / pages |
 | --- | --- |
 | GitHub | [FarlandGame](https://github.com/FarlandGame) |
+| Work enquiries | [farland.game158@gmail.com](mailto:farland.game158@gmail.com) |
 | Roblox | [farland_game0 · Farland_game](https://www.roblox.com/users/7889384276/profile) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | Rubika channels | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
