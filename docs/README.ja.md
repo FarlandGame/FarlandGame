@@ -36,13 +36,13 @@
 <!-- PERSONAL_SHOWCASE_START -->
 ## 私の物語 — Farland_gameの素顔、Kabir 📸🎬
 
-Bardiya Alizadeh、愛称Kabir、活動名Farland_gameです。このアーカイブには、提供した画像139点と動画12本を収録しています。子どもの頃の思い出、家族や友人との時間、本に関する写真、ポートレートの編集作品、制作中のMinecraftストーリーサーバープロジェクトTHE APEXの作品をまとめました。11.67秒のMinecraft風アニメーションも含まれています。
+Bardiya Alizadeh、愛称Kabir、活動名Farland_gameです。このアーカイブには、提供した画像138点と動画12本を収録しています。子どもの頃の思い出、家族や友人との時間、本に関する写真、ポートレートの編集作品、制作中のMinecraftストーリーサーバープロジェクトTHE APEXの作品をまとめました。11.67秒のMinecraft風アニメーションも含まれています。
 
 > クエスト一覧に、ついにコントローラーを持っている本人も登場！ 🎮📸
 
 <p><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="Book memories"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-096"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="230" alt="THE APEX"></a></p>
 
-[画像139点すべて](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/ja/all.md) · [▶ 動画と編集作品](https://farlandgame.github.io/Personal-Portfolio/?lang=ja) · [私の物語 — Farland_gameの素顔、Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md)
+[画像138点すべて](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/ja/all.md) · [▶ 動画と編集作品](https://farlandgame.github.io/Personal-Portfolio/?lang=ja) · [私の物語 — Farland_gameの素顔、Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md)
 <!-- PERSONAL_SHOWCASE_END -->
 
 <!-- MUSIC_SHOWCASE_START -->
