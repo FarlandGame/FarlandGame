@@ -36,13 +36,13 @@ I'd love to see your take on **my Minecraft and Roblox avatars**, or a cartoon o
 <!-- PERSONAL_SHOWCASE_START -->
 ## My Story — Kabir behind Farland_game 📸🎬
 
-I’m Bardiya Alizadeh, also known as Kabir and Farland_game. These 138 supplied images and 12 videos bring together childhood and personal memories, family and friends, book-related photos, portrait edits, and artwork from THE APEX, our Minecraft story-server project in progress. A short 11.67-second Minecraft-style animation is included too.
+I’m Bardiya Alizadeh, also known as Kabir and Farland_game. These 136 supplied images and 12 videos bring together childhood and personal memories, family and friends, book-related photos, portrait edits, and artwork from THE APEX, our Minecraft story-server project in progress. A short 11.67-second Minecraft-style animation is included too.
 
 > My quest log finally includes the person holding the controller. 🎮📸
 
 <p><a href="https://farlandgame.github.io/Personal-Portfolio/"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="Book memories"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/#personal-096"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="230" alt="THE APEX"></a></p>
 
-[All 138 images](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/en/all.md) · [▶ Videos & edits](https://farlandgame.github.io/Personal-Portfolio/) · [My Story — Kabir behind Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md)
+[All 136 images](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/en/all.md) · [▶ Videos & edits](https://farlandgame.github.io/Personal-Portfolio/) · [My Story — Kabir behind Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md)
 <!-- PERSONAL_SHOWCASE_END -->
 
 <!-- MUSIC_SHOWCASE_START -->
