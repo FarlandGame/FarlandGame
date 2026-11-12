@@ -20,6 +20,12 @@
 
 <!-- PORTFOLIO_DIRECTORY_END -->
 
+<!-- LINKS_HUB_START -->
+<p align="center"><a href="https://farlandgame.github.io/Personal-Portfolio/links/?lang=fa"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/links.svg" width="720" alt="همهٔ لینک‌های من · کارت‌های تعاملی و کنترل صدا"></a></p>
+
+[🔗 همهٔ لینک‌های من · کارت‌های تعاملی و کنترل صدا](https://farlandgame.github.io/Personal-Portfolio/links/?lang=fa)
+<!-- LINKS_HUB_END -->
+
 <!-- PLAYFUL_ABOUT_START -->
 **تکیه‌کلام مخصوص من 🎤**
 
@@ -132,7 +138,7 @@
 
 **بردیا علیزاده، ملقب به کبیر · Farland_game — انیمیشن، تصویر کاراکتر و مراحل ساخت آثار.**
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="کارت معرفی زرد و مشکی Farland Game در انیمیشن شمارهٔ ۸"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ۳۵ فایل ویدئویی در چهار مجموعه و ۲۰۸ تصویر. مجموعهٔ اصلی اولیه هشت ویدئو دارد، روبلاکس یازده و مطالعات اولیه سه؛ آرشیو تاریخی دورهٔ گوشی، سیزده فایل ویدئویی و ۴۶ عکس از فضای مدرسه به گالری قبلیِ ۱۶۲ تصویری اضافه می‌کند. فایل‌های تاریخی شامل انیمیشن، ترکیب چند رسانه، ضبط درون بازی و افتتاحیهٔ کانال‌اند؛ هر فایل لزوماً یک فیلم انیمیشنیِ رندرشده نیست.
 
@@ -162,7 +168,7 @@
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg" width="72" alt=""></a>
 
-<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/stills/phone-08.jpg" width="480" alt="مختصات: پروژهٔ ارسال‌نشدهٔ خوارزمی"></a>
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/2d-sticknodes-cover.png" width="640" alt="2D Animation · Stick Nodes · edited cover based on phone animation 06"></a>
 
 [ورود به آرشیو سال‌های نخستِ کار با گوشی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md) · [گالری مرجع فضای مدرسه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/school-01.md)
 <!-- EARLY_PHONE_SHOWCASE_END -->

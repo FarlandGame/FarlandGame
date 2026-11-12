@@ -20,6 +20,12 @@
 
 <!-- PORTFOLIO_DIRECTORY_END -->
 
+<!-- LINKS_HUB_START -->
+<p align="center"><a href="https://farlandgame.github.io/Personal-Portfolio/links/?lang=ja"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/links.svg" width="720" alt="すべてのリンク · 動くカードとサウンド設定"></a></p>
+
+[🔗 すべてのリンク · 動くカードとサウンド設定](https://farlandgame.github.io/Personal-Portfolio/links/?lang=ja)
+<!-- LINKS_HUB_END -->
+
 <!-- PLAYFUL_ABOUT_START -->
 **お決まりの自己紹介 🎤**
 
@@ -132,7 +138,7 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 
 **Bardiya Alizadeh（Kabir）· Farland_game — アニメーション、キャラクター画像、ビジュアル開発。**
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="メイン映像 08 の黄色と黒の Farland Game 紹介カード"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 4つのコレクションに計35本の動画ファイルと208枚の画像を収録しています。従来のメインシリーズは8本、Robloxは11本、初期習作は3本です。スマートフォン創作初期のアーカイブでは、13本の動画ファイルと学校のロケーション写真46枚を追加し、以前の162枚の画像ギャラリーを拡充しています。過去のファイルにはアニメーション、複数メディアの組み合わせ、ゲーム内録画、チャンネルオープニングがあり、すべてがレンダリングされたアニメーション映画というわけではありません。
 
@@ -162,7 +168,7 @@ Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャ�
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg" width="72" alt=""></a>
 
-<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/stills/phone-08.jpg" width="480" alt="座標：提出できなかったホラズミー作品"></a>
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/2d-sticknodes-cover.png" width="640" alt="2D Animation · Stick Nodes · edited cover based on phone animation 06"></a>
 
 [スマートフォン創作初期のアーカイブを開く](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md) · [学校のロケーション資料ギャラリー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/school-01.md)
 <!-- EARLY_PHONE_SHOWCASE_END -->

@@ -20,6 +20,12 @@ Pick a card to watch, read or download. Each section has its own introduction an
 
 <!-- PORTFOLIO_DIRECTORY_END -->
 
+<!-- LINKS_HUB_START -->
+<p align="center"><a href="https://farlandgame.github.io/Personal-Portfolio/links/?lang=en"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/links.svg" width="720" alt="Open all my links · animated cards & sound controls"></a></p>
+
+[🔗 Open all my links · animated cards & sound controls](https://farlandgame.github.io/Personal-Portfolio/links/?lang=en)
+<!-- LINKS_HUB_END -->
+
 <!-- PLAYFUL_ABOUT_START -->
 **My signature intro 🎤**
 
@@ -132,7 +138,7 @@ The bigger Windows/Android vision included short- and long-term predictions and 
 
 **Bardiya Alizadeh (Kabir) · Farland_game — animation, character imagery and visual development.**
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="640" alt="Yellow-and-black Farland Game profile card from main animation 08"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 35 video files across four collections and 208 images. The original main sequence has eight videos, Roblox has eleven, and early studies has three; the historical phone-era archive adds thirteen video files and 46 school-location photographs to the earlier 162-image gallery. The historical files include animation, mixed media, in-game capture and a channel opening; not every file is a rendered animated film.
 
@@ -162,7 +168,7 @@ These are the surviving exports from my early phone-based creative years: StickN
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg" width="72" alt=""></a>
 
-<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/stills/phone-08.jpg" width="480" alt="Coordinates: the unsubmitted Khwarizmi project"></a>
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/2d-sticknodes-cover.png" width="640" alt="2D Animation · Stick Nodes · edited cover based on phone animation 06"></a>
 
 [Open the early phone-era archive](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/index.md) · [School-location reference gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/school-01.md)
 <!-- EARLY_PHONE_SHOWCASE_END -->
