@@ -1,5 +1,9 @@
 # English readings of the supplied certificates
 
+<!-- CREDENTIAL_STICKER -->
+<img src="../../assets/showcase/credentials-sticker.svg" width="86" alt="Credentials">
+
+
 These are unofficial readings for portfolio reference. Dates retain the Solar Hijri calendar. The public-speaking national ID is redacted; no signature or seal is recreated.
 
 ## Public speaking — unofficial transcription

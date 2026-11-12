@@ -4,9 +4,23 @@
 
 من **بردیا علیزاده** هستم؛ ملقب به **کبیر** و شناخته‌شده با نام هنری **Farland_game**. این صفحه محل معرفی پروژه‌های نرم‌افزاری و آثار خلاقانهٔ من است.
 
-<!-- PLAYFUL_ABOUT_START -->
-<p><a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/autoclicker.svg" width="82" height="82" alt="Farland_autcliker"></a> <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/manhunt.svg" width="82" height="82" alt="Vexland_Manhunt"></a> <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/book.svg" width="82" height="82" alt="Visual-Animation-Tutorial"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/stickers/animation.svg" width="82" height="82" alt="Animation-Portfolio"></a></p>
+<!-- PORTFOLIO_DIRECTORY_START -->
+<a id="portfolio-directory"></a>
+## از اینجا وارد رزومه‌ام شو ✨
 
+روی هر کارت بزن؛ تماشا، مطالعه و دانلودِ هر بخش از همین‌جا در دسترس است. 🎮🎬
+
+| | |
+|:--:|:--:|
+| <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/blender.svg" width="350" alt="بلندر · انیمیشن سه‌بعدی"></a><br><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md">بلندر · انیمیشن سه‌بعدی</a> | <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/roblox.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/roblox.svg" width="350" alt="روبلاکس · استودیو و ادیت"></a><br><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/roblox.md">روبلاکس · استودیو و ادیت</a> |
+| <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/phone-2d.svg" width="350" alt="دورهٔ گوشی · دوبعدی و کارهای اولیه"></a><br><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md">دورهٔ گوشی · دوبعدی و کارهای اولیه</a> | <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/personal.svg" width="350" alt="داستان من · عکس‌ها و ویدئوها"></a><br><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa">داستان من · عکس‌ها و ویدئوها</a> |
+| <a href="https://github.com/FarlandGame/Farland_autcliker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/autoclicker.svg" width="350" alt="برنامهٔ Farland_autcliker"></a><br><a href="https://github.com/FarlandGame/Farland_autcliker">برنامهٔ Farland_autcliker</a> | <a href="https://github.com/FarlandGame/Vexland_Manhunt"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/manhunt.svg" width="350" alt="پلاگین Vexland_Manhunt"></a><br><a href="https://github.com/FarlandGame/Vexland_Manhunt">پلاگین Vexland_Manhunt</a> |
+| <a href="https://github.com/FarlandGame/GoldBrain"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/goldbrain.svg" width="350" alt="GoldBrain · کد آرشیوشده"></a><br><a href="https://github.com/FarlandGame/GoldBrain">GoldBrain · کد آرشیوشده</a> | <a href="https://farlandgame.github.io/Music-Portfolio/?lang=fa"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/music.svg" width="350" alt="موسیقی · فارسی و ژاپنی"></a><br><a href="https://farlandgame.github.io/Music-Portfolio/?lang=fa">موسیقی · فارسی و ژاپنی</a> |
+| <a href="https://github.com/FarlandGame/Visual-Animation-Tutorial"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/book.svg" width="350" alt="کتاب آموزش انیمیشن‌سازی تصویری"></a><br><a href="https://github.com/FarlandGame/Visual-Animation-Tutorial">کتاب آموزش انیمیشن‌سازی تصویری</a> | <a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/README.fa.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/credentials.svg" width="350" alt="مدارک · فن بیان و شنا"></a><br><a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/README.fa.md">مدارک · فن بیان و شنا</a> |
+
+<!-- PORTFOLIO_DIRECTORY_END -->
+
+<!-- PLAYFUL_ABOUT_START -->
 **تکیه‌کلام مخصوص من 🎤**
 
 > My name is Bardiya Kabir — Mr. King of Gods. But you can call me Farland_game.
