@@ -60,7 +60,7 @@ I’m Bardiya Alizadeh, also known as Kabir and Farland_game. These 136 supplied
 
 > My quest log finally includes the person holding the controller. 🎮📸
 
-<p><a href="https://farlandgame.github.io/Personal-Portfolio/"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="Book memories"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/#personal-096"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="230" alt="THE APEX"></a></p>
+<p><a href="https://farlandgame.github.io/Personal-Portfolio/"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="Book memories"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/assets/section-covers/the-apex-color.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="230" alt="THE APEX color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/assets/section-covers/the-apex-neon.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="230" alt="THE APEX neon poster"></a></p>
 
 [All 136 images](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/en/all.md) · [▶ Videos & edits](https://farlandgame.github.io/Personal-Portfolio/) · [My Story — Kabir behind Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md)
 <!-- PERSONAL_SHOWCASE_END -->
