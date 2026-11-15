@@ -1,5 +1,11 @@
 # Bardiya Alizadeh · Farland_game
 
+<!-- BLENDER_SOURCES_START -->
+
+### [Blender source archive · 28 file entries / 25 source packages 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md)
+
+<!-- BLENDER_SOURCES_END -->
+
 [English](https://github.com/FarlandGame) | [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) | [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md)
 
 I'm **Bardiya Alizadeh**, also known as **Kabir** and **Farland_game**. This page brings together my software projects and creative work.

@@ -1,5 +1,11 @@
 # بردیا علیزاده · Farland_game
 
+<!-- BLENDER_SOURCES_START -->
+
+### [آرشیو فایل‌های بلندر · ۲۸ فایل معرفی‌شده / ۲۵ بستهٔ دانلود 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/index.md)
+
+<!-- BLENDER_SOURCES_END -->
+
 [English](https://github.com/FarlandGame) | [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) | [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md)
 
 من **بردیا علیزاده** هستم؛ ملقب به **کبیر** و شناخته‌شده با نام هنری **Farland_game**. این صفحه محل معرفی پروژه‌های نرم‌افزاری و آثار خلاقانهٔ من است.

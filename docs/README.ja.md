@@ -1,5 +1,11 @@
 # Bardiya Alizadeh · Farland_game
 
+<!-- BLENDER_SOURCES_START -->
+
+### [Blender制作アーカイブ・28項目／25件の制作ファイル配布 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md)
+
+<!-- BLENDER_SOURCES_END -->
+
 [English](https://github.com/FarlandGame) | [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) | [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md)
 
 **Bardiya Alizadeh** です。**Kabir**、**Farland_game** という名前でも活動しています。このページでは、ソフトウェアのプロジェクトや創作活動を紹介しています。
