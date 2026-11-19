@@ -6,7 +6,7 @@
 
 <!-- BLENDER_SOURCES_END -->
 
-[English](https://github.com/FarlandGame) | [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) | [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md)
+[English](https://github.com/FarlandGame/FarlandGame/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ru.md)
 
 **Bardiya Alizadeh** です。**Kabir**、**Farland_game** という名前でも活動しています。このページでは、ソフトウェアのプロジェクトや創作活動を紹介しています。
 
@@ -31,7 +31,7 @@
 
 ## [アプリとプロダクト開発](https://github.com/FarlandGame/Apps-Portfolio/blob/main/docs/README.ja.md)
 
-[![RokhDesk](https://raw.githubusercontent.com/FarlandGame/Apps-Portfolio/main/assets/rokhdesk/rokhdesk-cover-1920x1080.png)](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/ja.md)
+[![RokhDesk](https://raw.githubusercontent.com/FarlandGame/Apps-Portfolio/main/assets/rokhdesk/ja/rokhdesk-cover-1920x1080.png)](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/ja.md)
 
 顧客情報、ジャラリ暦の予約、顧客ごとの会計を扱う、ペルシャ語中心の受託Androidアプリ。イラン・マラーゲの**Rokh Be Rokh理髪店**向けに開発し、利用者・管理者は**Hamid氏**です。実際の画面と操作録画を掲載しています。
 
@@ -113,7 +113,7 @@ Bardiya Alizadeh、愛称Kabir、活動名Farland_gameです。このアーカ�
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="420" alt="公開用に国民識別番号を非表示"></a>
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ja.png" width="420" alt="公開用に国民識別番号を非表示"></a>
 
 ### [水泳と大会での経験 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
 
@@ -123,7 +123,7 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="420" alt="水泳・ライフセービングの参加記録"></a>
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png" width="420" alt="水泳・ライフセービングの参加記録"></a>
 
 [スピーチとプレゼンテーション 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md) · [水泳と大会での経験 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
 <!-- CREDENTIALS_SHOWCASE_END -->
@@ -226,9 +226,9 @@ Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関
 
 > 最初のアニメーションの 1 コマから、本の執筆へ。そしてクエストログに感謝状が加わりました。📚✨
 
-<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="見やすく整えた画像"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="非公式の英訳"></a></p>
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="見やすく整えた画像"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png" width="245" alt="非公式の日本語訳"></a></p>
 
-[感謝状と翻訳を読む](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [元の写真](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [非公式の英訳](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
+[感謝状と翻訳を読む](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [元の写真](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [非公式の日本語訳](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png)
 <!-- BOOK_RECOGNITION_END -->
 
 <!-- BOOK_SHOWCASE_END -->

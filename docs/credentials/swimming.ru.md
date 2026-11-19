@@ -1,7 +1,16 @@
 # Плавание и опыт соревнований 🏊
 
+<!-- LOCALIZED_READING -->
+Неофициальный русский перевод. Ниже сохранены исходные документы.
+
+![Неофициальный русский перевод. Ниже сохранены исходные документы.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png)
+
+![Неофициальный русский перевод. Ниже сохранены исходные документы.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png)
+<!-- LOCALIZED_READING_END -->
+
+
 <!-- CREDENTIAL_STICKER -->
-<img src="../../assets/showcase/credentials-sticker.svg" width="86" alt="Credentials">
+<img src="../../assets/showcase/ru/credentials-sticker.svg" width="86" alt="Credentials">
 
 
 [English](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md) · [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md) · [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fa.md) · [Deutsch](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.de.md) · [Français](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fr.md) · [Español](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.es.md) · [Português (Brasil)](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.pt-BR.md) · [Italiano](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.it.md) · [Nederlands](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.nl.md) · [Polski](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.pl.md) · [Українська](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.uk.md) · [Türkçe](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.tr.md) · [Русский](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ru.md) · [简体中文](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.zh-TW.md) · [한국어](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ko.md) · [हिन्दी](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.id.md)
@@ -24,9 +33,9 @@
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-preview.jpg" width="700" alt="Обрезанная копия для просмотра"></a>
 
-### Неофициальная английская версия для чтения
+### Неофициальная русская версия для чтения
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png" width="700" alt="Неофициальная английская версия для чтения"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png" width="700" alt="Неофициальная русская версия для чтения"></a>
 
 ## Участие в фестивале плавания
 
@@ -42,14 +51,14 @@
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="700" alt="Обрезанная копия для просмотра"></a>
 
-### Неофициальная английская версия для чтения
+### Неофициальная русская версия для чтения
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png" width="700" alt="Неофициальная английская версия для чтения"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png" width="700" alt="Неофициальная русская версия для чтения"></a>
 
 Английские изображения передают читаемый текст исходных документов и явно обозначены как неофициальные переводы. Напечатанные имена не заменяют исходные подписи; официальные печати, подписи и медали не создавались. Даты сохранены по календарю солнечной хиджры.
 
 [Полная предоставленная фотография документов о плавании](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/swimming/source-photo.jpg) · [Примечания к прочтению и происхождение](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/swimming/PROVENANCE.json)
 
-[Примечания к прочтению и происхождение](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/readings.en.md) · [Также в моём портфолио](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ru.md)
+[Примечания к прочтению и происхождение](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/readings.ru.md) · [Также в моём портфолио](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ru.md)
 
 [Вернуться к моему портфолио](https://github.com/FarlandGame)

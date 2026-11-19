@@ -1,5 +1,14 @@
 # Swimming & Competition Experience 🏊
 
+<!-- LOCALIZED_READING -->
+Unofficial reading images. Source documents are retained below.
+
+![Unofficial reading images. Source documents are retained below.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png)
+
+![Unofficial reading images. Source documents are retained below.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png)
+<!-- LOCALIZED_READING_END -->
+
+
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/credentials-sticker.svg" width="86" alt="Credentials">
 
@@ -26,7 +35,7 @@ The upper document records participation in the first edition of the Nedaye Omid
 
 ### Unofficial English reading copy
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png" width="700" alt="Unofficial English reading copy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png" width="700" alt="Unofficial English reading copy"></a>
 
 ## Swimming festival participation
 
@@ -44,7 +53,7 @@ The lower document names Bardiya Alizadeh and a swimming festival for Sacred Def
 
 ### Unofficial English reading copy
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png" width="700" alt="Unofficial English reading copy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="700" alt="Unofficial English reading copy"></a>
 
 The English images translate the readable source text and are prominently labelled unofficial. Typed names replace no original signature; official seals, signatures and medals have not been generated. Dates retain the Solar Hijri calendar.
 

@@ -1,5 +1,14 @@
 # 水泳と大会での経験 🏊
 
+<!-- LOCALIZED_READING -->
+非公式の日本語訳。原本の閲覧用画像も下に掲載しています。
+
+![非公式の日本語訳。原本の閲覧用画像も下に掲載しています。](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png)
+
+![非公式の日本語訳。原本の閲覧用画像も下に掲載しています。](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png)
+<!-- LOCALIZED_READING_END -->
+
+
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/ja/credentials-sticker.svg" width="86" alt="Credentials">
 
@@ -24,9 +33,9 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-preview.jpg" width="700" alt="閲覧用にトリミングした画像"></a>
 
-### 読みやすい非公式の英語版
+### 読みやすい非公式の日本語訳
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png" width="700" alt="読みやすい非公式の英語版"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png" width="700" alt="読みやすい非公式の日本語訳"></a>
 
 ## 水泳フェスティバルへの参加
 
@@ -42,14 +51,14 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="700" alt="閲覧用にトリミングした画像"></a>
 
-### 読みやすい非公式の英語版
+### 読みやすい非公式の日本語訳
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png" width="700" alt="読みやすい非公式の英語版"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png" width="700" alt="読みやすい非公式の日本語訳"></a>
 
-英語画像は、原本の判読できる文章を訳したもので、非公式であることを目立つ形で示しています。タイプされた名前は原本の署名に代わるものではありません。公式の印章、署名、メダルは生成していません。日付はヒジュラ太陽暦のままです。
+翻訳画像は、原本の判読できる文章を訳したもので、非公式であることを目立つ形で示しています。タイプされた名前は原本の署名に代わるものではありません。公式の印章、署名、メダルは生成していません。日付はヒジュラ太陽暦のままです。
 
 [提供した水泳証明書の写真全体](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/swimming/source-photo.jpg) · [判読と出典に関する注記](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/swimming/PROVENANCE.json)
 
-[判読と出典に関する注記](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/readings.en.md) · [ポートフォリオのその他の項目](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md)
+[判読と出典に関する注記](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/readings.ja.md) · [ポートフォリオのその他の項目](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md)
 
 [ポートフォリオに戻る](https://github.com/FarlandGame)

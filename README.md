@@ -6,7 +6,7 @@
 
 <!-- BLENDER_SOURCES_END -->
 
-[English](https://github.com/FarlandGame) | [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) | [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md)
+[English](https://github.com/FarlandGame/FarlandGame/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ru.md)
 
 I'm **Bardiya Alizadeh**, also known as **Kabir** and **Farland_game**. This page brings together my software projects and creative work.
 
@@ -31,7 +31,7 @@ Pick a card to watch, read or download. Each section has its own introduction an
 
 ## [Apps & Product Work](https://github.com/FarlandGame/Apps-Portfolio/blob/main/README.md)
 
-[![RokhDesk](https://raw.githubusercontent.com/FarlandGame/Apps-Portfolio/main/assets/rokhdesk/rokhdesk-cover-1920x1080.png)](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/en.md)
+[![RokhDesk](https://raw.githubusercontent.com/FarlandGame/Apps-Portfolio/main/assets/rokhdesk/en/rokhdesk-cover-1920x1080.png)](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/en.md)
 
 A commissioned Persian Android application for salon customer records, Jalali appointments and customer accounts. Developed for **Rokh Be Rokh Barbershop, Maragheh, Iran**; **Mr. Hamid** is the operator. This is a product case study with real interface recordings.
 
@@ -123,7 +123,7 @@ I recall placing first in a swimming competition at Rasad Pool, Maragheh. I do n
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="420" alt="Swimming and lifesaving participation records"></a>
+<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="420" alt="Swimming and lifesaving participation records"></a>
 
 [Public Speaking & Presentation 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.en.md) · [Swimming & Competition Experience 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md)
 <!-- CREDENTIALS_SHOWCASE_END -->

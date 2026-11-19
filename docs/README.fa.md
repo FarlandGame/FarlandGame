@@ -6,7 +6,7 @@
 
 <!-- BLENDER_SOURCES_END -->
 
-[English](https://github.com/FarlandGame) | [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) | [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md)
+[English](https://github.com/FarlandGame/FarlandGame/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/FarlandGame/blob/main/docs/README.ru.md)
 
 من **بردیا علیزاده** هستم؛ ملقب به **کبیر** و شناخته‌شده با نام هنری **Farland_game**. این صفحه محل معرفی پروژه‌های نرم‌افزاری و آثار خلاقانهٔ من است.
 

@@ -1,5 +1,12 @@
 # スピーチとプレゼンテーション 🎤
 
+<!-- LOCALIZED_READING -->
+非公式の日本語訳。原本の閲覧用画像も下に掲載しています。
+
+![非公式の日本語訳。原本の閲覧用画像も下に掲載しています。](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ja.png)
+<!-- LOCALIZED_READING_END -->
+
+
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/ja/credentials-sticker.svg" width="86" alt="Credentials">
 
@@ -39,14 +46,14 @@
 
 [公開用の原画像](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/public-speaking/source-public-redacted.png)
 
-## 読みやすい非公式の英語版
+## 読みやすい非公式の日本語訳
 
-新しい英語画像は、読みやすくするための非公式な書き起こしであることを明示しています。正式な再発行ではありません。署名やアカデミーの印章は再現していません。原本にある一般的な装飾用の受賞マークは、別の大会での受賞や指導資格を証明するものではありません。
+新しい翻訳画像は、読みやすくするための非公式な書き起こしであることを明示しています。正式な再発行ではありません。署名やアカデミーの印章は再現していません。原本にある一般的な装飾用の受賞マークは、別の大会での受賞や指導資格を証明するものではありません。
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/english-unofficial.png" width="700" alt="読みやすい非公式の英語版"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ja.png" width="700" alt="読みやすい非公式の日本語訳"></a>
 
 [判読と出典に関する注記](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/public-speaking/PROVENANCE.json)
 
-[判読と出典に関する注記](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/readings.en.md) · [ポートフォリオのその他の項目](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
+[判読と出典に関する注記](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/readings.ja.md) · [ポートフォリオのその他の項目](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
 
 [ポートフォリオに戻る](https://github.com/FarlandGame)

@@ -1,5 +1,12 @@
 # Public Speaking & Presentation 🎤
 
+<!-- LOCALIZED_READING -->
+Unofficial reading images. Source documents are retained below.
+
+![Unofficial reading images. Source documents are retained below.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png)
+<!-- LOCALIZED_READING_END -->
+
+
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/credentials-sticker.svg" width="86" alt="Credentials">
 
@@ -43,7 +50,7 @@ The supplied certificate is already in English. Its printed name is Bardia Aliza
 
 The new English image is a clearly labelled unofficial transcription for readability, not an official reissue. No signature or academy seal has been recreated. The generic decorative award badge on the source does not establish a separate competition prize or teaching qualification.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/english-unofficial.png" width="700" alt="Unofficial English reading copy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png" width="700" alt="Unofficial English reading copy"></a>
 
 [Reading notes and provenance](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/public-speaking/PROVENANCE.json)
 
