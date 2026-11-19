@@ -26,6 +26,18 @@
 
 <!-- PORTFOLIO_DIRECTORY_END -->
 
+<!-- APPS_SHOWCASE_START -->
+
+## [アプリとプロダクト開発](https://github.com/FarlandGame/Apps-Portfolio/blob/main/docs/README.ja.md)
+
+[![RokhDesk](https://raw.githubusercontent.com/FarlandGame/Apps-Portfolio/main/assets/rokhdesk/rokhdesk-cover-1920x1080.png)](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/ja.md)
+
+顧客情報、ジャラリ暦の予約、顧客ごとの会計を扱う、ペルシャ語中心の受託Androidアプリ。イラン・マラーゲの**Rokh Be Rokh理髪店**向けに開発し、利用者・管理者は**Hamid氏**です。実際の画面と操作録画を掲載しています。
+
+[RokhDesk](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/ja.md) · [GoldBrain](https://github.com/FarlandGame/GoldBrain)
+
+<!-- APPS_SHOWCASE_END -->
+
 <!-- LINKS_HUB_START -->
 <p align="center"><a href="https://farlandgame.github.io/Personal-Portfolio/links/?lang=ja"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ja/links.svg" width="720" alt="すべてのリンク · 動くカードとサウンド設定"></a></p>
 

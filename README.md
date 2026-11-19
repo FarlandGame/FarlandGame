@@ -26,6 +26,18 @@ Pick a card to watch, read or download. Each section has its own introduction an
 
 <!-- PORTFOLIO_DIRECTORY_END -->
 
+<!-- APPS_SHOWCASE_START -->
+
+## [Apps & Product Work](https://github.com/FarlandGame/Apps-Portfolio/blob/main/README.md)
+
+[![RokhDesk](https://raw.githubusercontent.com/FarlandGame/Apps-Portfolio/main/assets/rokhdesk/rokhdesk-cover-1920x1080.png)](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/en.md)
+
+A commissioned Persian Android application for salon customer records, Jalali appointments and customer accounts. Developed for **Rokh Be Rokh Barbershop, Maragheh, Iran**; **Mr. Hamid** is the operator. This is a product case study with real interface recordings.
+
+[RokhDesk](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/en.md) · [GoldBrain](https://github.com/FarlandGame/GoldBrain)
+
+<!-- APPS_SHOWCASE_END -->
+
 <!-- LINKS_HUB_START -->
 <p align="center"><a href="https://farlandgame.github.io/Personal-Portfolio/links/?lang=en"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/links.svg" width="720" alt="Open all my links · animated cards & sound controls"></a></p>
 

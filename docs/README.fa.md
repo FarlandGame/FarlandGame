@@ -26,6 +26,18 @@
 
 <!-- PORTFOLIO_DIRECTORY_END -->
 
+<!-- APPS_SHOWCASE_START -->
+
+## [برنامه‌ها و تجربه‌های توسعهٔ محصول](https://github.com/FarlandGame/Apps-Portfolio/blob/main/docs/README.fa.md)
+
+[![RokhDesk](https://raw.githubusercontent.com/FarlandGame/Apps-Portfolio/main/assets/rokhdesk/rokhdesk-cover-1920x1080.png)](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/fa.md)
+
+یک برنامهٔ سفارشی اندروید برای پروندهٔ مشتری، نوبت‌دهی جلالی و حساب مشتری؛ توسعه‌یافته برای **آرایشگاه رخ به رخ، مراغه**. مدیر و استفاده‌کننده **آقا حمید** است. این معرفی با تصاویر و ضبط واقعی رابط برنامه همراه است.
+
+[RokhDesk](https://github.com/FarlandGame/Apps-Portfolio/blob/main/projects/rokhdesk/fa.md) · [GoldBrain](https://github.com/FarlandGame/GoldBrain)
+
+<!-- APPS_SHOWCASE_END -->
+
 <!-- LINKS_HUB_START -->
 <p align="center"><a href="https://farlandgame.github.io/Personal-Portfolio/links/?lang=fa"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/fa/links.svg" width="720" alt="همهٔ لینک‌های من · کارت‌های تعاملی و کنترل صدا"></a></p>
 
