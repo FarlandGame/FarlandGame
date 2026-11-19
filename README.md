@@ -113,7 +113,12 @@ Creativity is not my only training ground. Here are my public-speaking course re
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.en.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="420" alt="National ID redacted for public sharing"></a>
+<!-- DOCUMENT_PAIR_SPEAKING_START -->
+<table>
+<tr><th>Original document · public viewing copy</th><th>Unofficial English reading</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="300" alt="Original document · public viewing copy"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png" width="300" alt="Unofficial English reading"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_SPEAKING_END -->
 
 ### [Swimming & Competition Experience 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md)
 
@@ -123,7 +128,12 @@ I recall placing first in a swimming competition at Rasad Pool, Maragheh. I do n
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="420" alt="Swimming and lifesaving participation records"></a>
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>Original document · public viewing copy</th><th>Unofficial English reading</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="Original document · public viewing copy"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="300" alt="Unofficial English reading"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
 
 [Public Speaking & Presentation 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.en.md) · [Swimming & Competition Experience 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.en.md)
 <!-- CREDENTIALS_SHOWCASE_END -->
@@ -226,7 +236,12 @@ I received a certificate of appreciation from the Maragheh Education Administrat
 
 > From a first animation frame to a book—and a certificate in the quest log. 📚✨
 
-<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="Cleaned viewing copy"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="Unofficial English translation"></a></p>
+<!-- DOCUMENT_PAIR_BOOK_START -->
+<table>
+<tr><th>Original document · public viewing copy</th><th>Unofficial English reading</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="300" alt="Original document · public viewing copy"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png" width="300" alt="Unofficial English reading"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_BOOK_END -->
 
 [Read the certificate and translation](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.en.md) · [Original photograph](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [Unofficial English translation](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
 <!-- BOOK_RECOGNITION_END -->

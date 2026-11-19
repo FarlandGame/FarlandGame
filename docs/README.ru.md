@@ -54,6 +54,8 @@
 
 > В журнал квестов наконец попал и тот, кто держит контроллер. 🎮📸
 
+<p><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ru#personal-057"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="Семейный праздник выхода книги"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="230" alt="THE APEX — оригинальный цветной постер"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="230" alt="THE APEX — оригинальный неоновый постер"></a></p>
+
 [Галерея и истории](https://farlandgame.github.io/Personal-Portfolio/?lang=ru) · [Архив](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ru.md)
 
 ## Музыка и обложки 🎧🎵
@@ -63,16 +65,32 @@
 
 > Моим анимации и коду, похоже, тоже понадобился саундтрек. 🎮🎵
 
+<p><a href="https://farlandgame.github.io/Music-Portfolio/?lang=ru#come-rain"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/come-rain.png" width="300" alt="Оригинальная обложка 雨よ来い"></a> <a href="https://farlandgame.github.io/Music-Portfolio/?lang=ru#times-wheel-turns-back"><img src="https://raw.githubusercontent.com/FarlandGame/Music-Portfolio/main/covers/times-wheel-turns-back.png" width="300" alt="Оригинальная обложка چرخ زمان بازمیگردد"></a></p>
+
 [Слушать оба трека](https://farlandgame.github.io/Music-Portfolio/?lang=ru) · [SoundCloud](https://soundcloud.com/bardiya-kabir-798008614)
 
 ## Речь и плавание 🎤🏊
-**Ораторское мастерство:** академия Rahkar, преподаватель Таха Бамшад, 30 часов, оценка 100/100. Национальный идентификатор скрыт. Изображение ниже — неофициальный русский перевод.
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt="Ораторское мастерство"></a>
 
-<img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png" width="520" alt="Неофициальный русский перевод свидетельства">
+**Ораторское мастерство:** академия Rahkar, преподаватель Таха Бамшад, 30 часов, оценка 100/100. Национальный идентификатор скрыт. Рядом с исходным документом размещён неофициальный русский перевод.
+
+<!-- DOCUMENT_PAIR_SPEAKING_START -->
+<table>
+<tr><th>Исходный документ · копия для просмотра</th><th>Неофициальный русский перевод</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="300" alt="Исходный документ · копия для просмотра"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png" width="300" alt="Неофициальный русский перевод"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_SPEAKING_END -->
+
+<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt="Плавание"></a>
 
 **Плавание:** документы подтверждают участие в водных мероприятиях. Я помню первое место в бассейне Rasad в Мараге, но не помню дату, дистанцию, стиль и категорию. Оба документа не содержат места; фестивальный документ указывает Athar Pool. Моя память и документальные сведения представлены отдельно.
 
-<img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png" width="520" alt="Неофициальный перевод свидетельства участия">
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>Исходный документ · копия для просмотра</th><th>Неофициальный русский перевод</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="Исходный документ · копия для просмотра"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png" width="300" alt="Неофициальный русский перевод"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
 
 [Ораторское мастерство](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ru.md) · [Плавание](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ru.md)
 
@@ -83,6 +101,10 @@ Flutter-интерфейс, Python/FastAPI, данные рынка, новос�
 
 > У мозга были большие планы. У счёта за инфраструктуру — тоже. 🧠🧾😅
 
+<p><a href="https://raw.githubusercontent.com/FarlandGame/GoldBrain/main/assets/historical-promo-poster.png"><img src="https://raw.githubusercontent.com/FarlandGame/GoldBrain/main/assets/historical-promo-poster.png" width="640" alt="Исторический постер GoldBrain"></a></p>
+
+*Исторический рекламный постер отражает первоначальный замысел, а не подтверждённые возможности нынешней версии.*
+
 [Исходники и история](https://github.com/FarlandGame/GoldBrain/blob/main/docs/README.ru.md) · [Как продолжить](https://github.com/FarlandGame/GoldBrain/blob/main/docs/CONTINUING.md)
 
 ## Анимация и визуальные работы 🎬
@@ -92,7 +114,15 @@ Flutter-интерфейс, Python/FastAPI, данные рынка, новос�
 
 > Большие идеи, кубические герои и вечный побочный квест: дождаться рендера. 🎬🍿
 
+<p><a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="330" alt="THE APEX — оригинальная цветная работа"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="330" alt="THE APEX — оригинальная неоновая работа"></a></p>
+
 [Основная серия](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ru/main.md) · [Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ru/roblox.md) · [Ранние опыты](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ru/early.md) · [Визуальная галерея](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/index.md)
+
+<!-- CHARACTER_CARICATURE_START -->
+Мой персонаж Farland_game: чёрная кубическая голова, чёрная толстовка с белыми F и G, белые перчатки и чёрная обувь. Иллюстрация разработана мной; оригинальное изображение сохранено. 😎🎨
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Оригинальная иллюстрация персонажа Farland_game"></a>
+<!-- CHARACTER_CARICATURE_END -->
 
 ### Исходники Blender
 **28 файловых записей, 25 доступных пакетов исходников.** Не каждая запись — независимый проект: есть предыдущие сохранения, эксперименты и незавершённые сцены. Даты описывают последнее изменение предоставленного файла, а не доказанную дату начала работы. Исходные материалы на моём компьютере не изменялись.
@@ -101,10 +131,20 @@ Flutter-интерфейс, Python/FastAPI, данные рынка, новос�
 
 [Проекты и загрузки](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ru/index.md)
 
+<a id="early-phone-archive"></a>
+
 ### Телефонный архив 📱
 Сохранившиеся работы со школьных лет: Stick Nodes, биография в смешанной технике, Minecraft-истории, первая оригинальная 3D-сцена на телефоне и заставка канала. Это история обучения, а не демонстрация сегодняшнего уровня.
 
 > У первых кадров уверенности было больше, чем ключевых поз. 📱😄
+
+<!-- EARLY_PHONE_MEDIA_START -->
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/history/phone-era/media/phone-sticker.svg" width="88" alt="Ранние телефонные работы"></a>
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ru/index.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/2d-sticknodes-cover.png" width="600" alt="2D-анимация в Stick Nodes — обложка архива"></a>
+
+*2D-анимация · Stick Nodes · Farland_game. Сохранённая обложка ранних работ; подпись и описание раздела переведены на русский.*
+<!-- EARLY_PHONE_MEDIA_END -->
 
 [Открыть ранний архив](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ru/index.md) · [Фотографии школьных локаций](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ru/school-01.md)
 
@@ -113,12 +153,19 @@ Flutter-интерфейс, Python/FastAPI, данные рынка, новос�
 
 В персидском издании и каталогах указан Бардия; портфолио также признаёт вклад Армии и совместную английскую версию. **Английское издание с жёлтой обложкой ещё готовится к публикации на Amazon; действующая ссылка покупки пока не заявлена.** ISBN персидского издания: **978-622-449-026-1**. Русский язык этой страницы не означает существование русского издания книги.
 
+<a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/persian-cover.jpg" width="300" alt="Настоящая обложка персидского издания книги"></a>
+
 [Книга и разрешённые фрагменты](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/README.ru.md) · [Армия на YouTube](https://www.youtube.com/@ArmiyaFabix)
 
 ### Благодарность за авторскую работу
 Управление образования Мараге вручило мне благодарственную грамоту за книгу; дата документа — **1404/09/09** по солнечной хиджре. Это местное признание авторской работы.
 
-<img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ru.png" width="520" alt="Неофициальный русский перевод благодарственной грамоты">
+<!-- DOCUMENT_PAIR_BOOK_START -->
+<table>
+<tr><th>Исходный документ · копия для просмотра</th><th>Неофициальный русский перевод</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="300" alt="Исходный документ · копия для просмотра"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ru.png" width="300" alt="Неофициальный русский перевод"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_BOOK_END -->
 
 [Грамота, оригинал и перевод](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ru.md)
 
@@ -131,3 +178,29 @@ Flutter-интерфейс, Python/FastAPI, данные рынка, новос�
 **Рабочая почта:** [farland.game158@gmail.com](mailto:farland.game158@gmail.com)
 
 [Все мои ссылки — каналы, музыка и сообщества](https://farlandgame.github.io/Personal-Portfolio/links/?lang=ru)
+
+
+### Каналы, сообщества и рабочие ссылки
+
+- [GitHub](https://github.com/FarlandGame)
+- [YouTube · Farland_game](https://www.youtube.com/@Farland_game)
+- [YouTube · Farland_animation](https://www.youtube.com/@Farland_animation)
+- [Rubika · Основной канал](https://rubika.ir/farland_gam)
+- [Rubika · Анимационный канал](https://rubika.ir/Farland_animatio)
+- [Rubika · Основная страница](https://rubika.ir/farland_game)
+- [Rubika · Страница анимации](https://rubika.ir/Farland_animations)
+- [Instagram](https://www.instagram.com/farland_game/)
+- [Telegram · Farland_game](https://t.me/Farland_gam)
+- [Telegram · Анимация](https://t.me/Farland_animatio)
+- [Farland Music Bot](https://t.me/Farland_Music_bot)
+- [Twitch](https://twitch.tv/farlandgame)
+- [Kick](https://kick.com/farlandgame)
+- [Aparat](https://aparat.com/Farland_Game)
+- [THE APEX · YouTube](https://www.youtube.com/@THE_APEX_MC)
+- [THE APEX · Telegram](https://t.me/+-3uY7eIZArVjZDE0)
+- [Manhunt · Telegram group](https://t.me/+DAq20XrkPyZhNjVk)
+- [ArmiyaFabix · My twin brother](https://www.youtube.com/@ArmiyaFabix)
+- [Поддержка · Reymit](https://reymit.ir/farland_game)
+- [SoundCloud](https://soundcloud.com/bardiya-kabir-798008614)
+- [Roblox · farland_game0](https://www.roblox.com/users/7889384276/profile)
+- [Рабочая связь · почта](mailto:farland.game158@gmail.com)

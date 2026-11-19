@@ -1,13 +1,18 @@
 # Плавание и опыт соревнований 🏊
 
-<!-- LOCALIZED_READING -->
-Неофициальный русский перевод. Ниже сохранены исходные документы.
+<!-- DOCUMENT_PAIR_LIFESAVING_START -->
+<table>
+<tr><th>Исходный документ · копия для просмотра</th><th>Неофициальный русский перевод</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg" width="300" alt="Исходный документ · копия для просмотра"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png" width="300" alt="Неофициальный русский перевод"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_LIFESAVING_END -->
 
-![Неофициальный русский перевод. Ниже сохранены исходные документы.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png)
-
-![Неофициальный русский перевод. Ниже сохранены исходные документы.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png)
-<!-- LOCALIZED_READING_END -->
-
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>Исходный документ · копия для просмотра</th><th>Неофициальный русский перевод</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="Исходный документ · копия для просмотра"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png" width="300" alt="Неофициальный русский перевод"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
 
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/ru/credentials-sticker.svg" width="86" alt="Credentials">
@@ -31,11 +36,11 @@
 
 Верхний документ подтверждает участие в первых соревнованиях по спасению на воде в рамках фестиваля Nedaye Omid в 1403 году. Он обращён к «уважаемому спортсмену», без личного имени. Рукописное название округа нельзя прочитать с уверенностью; неразборчивые сведения о подписи и небольшая декоративная цитата не воссоздаются. Это документ об участии, а не профессиональное удостоверение спасателя.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-preview.jpg" width="700" alt="Обрезанная копия для просмотра"></a>
+
 
 ### Неофициальная русская версия для чтения
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ru.png" width="700" alt="Неофициальная русская версия для чтения"></a>
+
 
 ## Участие в фестивале плавания
 
@@ -49,11 +54,11 @@
 | Место проведения, указанное в источнике | Athar Pool (اطهر), Maragheh |
 | Подписавшее лицо, названное в источнике | Mohammad Khorsandi · محمد خرسندی |
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="700" alt="Обрезанная копия для просмотра"></a>
+
 
 ### Неофициальная русская версия для чтения
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ru.png" width="700" alt="Неофициальная русская версия для чтения"></a>
+
 
 Английские изображения передают читаемый текст исходных документов и явно обозначены как неофициальные переводы. Напечатанные имена не заменяют исходные подписи; официальные печати, подписи и медали не создавались. Даты сохранены по календарю солнечной хиджры.
 

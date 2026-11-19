@@ -1,5 +1,19 @@
 # شنا و تجربهٔ مسابقه 🏊
 
+<!-- DOCUMENT_PAIR_LIFESAVING_START -->
+<table>
+<tr><th>عکس واقعی مدرک · نسخهٔ عمومی</th><th>نسخهٔ خوانای انگلیسی · غیررسمی</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg" width="300" alt="عکس واقعی مدرک · نسخهٔ عمومی"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png" width="300" alt="نسخهٔ خوانای انگلیسی · غیررسمی"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_LIFESAVING_END -->
+
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>عکس واقعی مدرک · نسخهٔ عمومی</th><th>نسخهٔ خوانای انگلیسی · غیررسمی</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="عکس واقعی مدرک · نسخهٔ عمومی"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="300" alt="نسخهٔ خوانای انگلیسی · غیررسمی"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
+
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/fa/credentials-sticker.svg" width="86" alt="Credentials">
 
@@ -22,11 +36,11 @@
 
 مدرک بالایی، شرکت در نخستین دورهٔ مسابقات نجات غریق جشنوارهٔ ندای امید در سال ۱۴۰۳ را ثبت کرده است. خطاب آن «ورزشکار گرامی» است و نام شخصی ندارد. نام شهرستان در قسمت دست‌نویس با اطمینان خوانده نمی‌شود؛ جزئیات ناخوانای امضا و نقل‌قول تزئینیِ کوچک بازسازی نشده‌اند. این مدرک، گواهی شرکت است و پروانهٔ حرفه‌ای نجات غریق نیست.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-preview.jpg" width="700" alt="نسخهٔ کادربندی‌شده برای مشاهده"></a>
+
 
 ### نسخهٔ خوانای انگلیسیِ غیررسمی
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-english-unofficial.png" width="700" alt="نسخهٔ خوانای انگلیسیِ غیررسمی"></a>
+
 
 ## شرکت در جشنوارهٔ شنا
 
@@ -40,11 +54,11 @@
 | محل درج‌شده در اصل مدرک | Athar Pool (اطهر), Maragheh |
 | امضاکنندهٔ نام‌برده در اصل مدرک | Mohammad Khorsandi · محمد خرسندی |
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="700" alt="نسخهٔ کادربندی‌شده برای مشاهده"></a>
+
 
 ### نسخهٔ خوانای انگلیسیِ غیررسمی
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-english-unofficial.png" width="700" alt="نسخهٔ خوانای انگلیسیِ غیررسمی"></a>
+
 
 تصاویر انگلیسی، متن خوانای مدارک را ترجمه می‌کنند و برچسب غیررسمیِ مشخص دارند. نام‌های تایپ‌شده جایگزین امضای اصلی نیستند؛ هیچ مهر رسمی، امضا یا مدالی تولید نشده است. تاریخ‌ها با تقویم هجری شمسی حفظ شده‌اند.
 

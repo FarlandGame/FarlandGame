@@ -1,13 +1,18 @@
 # Swimming & Competition Experience 🏊
 
-<!-- LOCALIZED_READING -->
-Unofficial reading images. Source documents are retained below.
+<!-- DOCUMENT_PAIR_LIFESAVING_START -->
+<table>
+<tr><th>Original document · public viewing copy</th><th>Unofficial English reading</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg" width="300" alt="Original document · public viewing copy"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png" width="300" alt="Unofficial English reading"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_LIFESAVING_END -->
 
-![Unofficial reading images. Source documents are retained below.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png)
-
-![Unofficial reading images. Source documents are retained below.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png)
-<!-- LOCALIZED_READING_END -->
-
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>Original document · public viewing copy</th><th>Unofficial English reading</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="Original document · public viewing copy"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="300" alt="Unofficial English reading"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
 
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/credentials-sticker.svg" width="86" alt="Credentials">
@@ -31,11 +36,11 @@ The certificate names Athar Pool, while my recollection names Rasad Pool. They a
 
 The upper document records participation in the first edition of the Nedaye Omid Festival lifesaving competitions in 1403. It addresses Dear Athlete without an individual name. The handwritten county field is not confidently legible; unclear signature details and the small decorative quotation are not reconstructed. This is a participation record, not a professional lifeguard licence.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-preview.jpg" width="700" alt="Cropped viewing copy"></a>
+
 
 ### Unofficial English reading copy
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.en.png" width="700" alt="Unofficial English reading copy"></a>
+
 
 ## Swimming festival participation
 
@@ -49,11 +54,11 @@ The lower document names Bardiya Alizadeh and a swimming festival for Sacred Def
 | Venue printed on source | Athar Pool (اطهر), Maragheh |
 | Signatory named on source | Mohammad Khorsandi · محمد خرسندی |
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="700" alt="Cropped viewing copy"></a>
+
 
 ### Unofficial English reading copy
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="700" alt="Unofficial English reading copy"></a>
+
 
 The English images translate the readable source text and are prominently labelled unofficial. Typed names replace no original signature; official seals, signatures and medals have not been generated. Dates retain the Solar Hijri calendar.
 

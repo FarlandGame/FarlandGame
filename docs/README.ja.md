@@ -113,7 +113,12 @@ Bardiya Alizadeh、愛称Kabir、活動名Farland_gameです。このアーカ�
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ja.png" width="420" alt="公開用に国民識別番号を非表示"></a>
+<!-- DOCUMENT_PAIR_SPEAKING_START -->
+<table>
+<tr><th>原本の閲覧用画像</th><th>非公式の日本語訳</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="300" alt="原本の閲覧用画像"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ja.png" width="300" alt="非公式の日本語訳"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_SPEAKING_END -->
 
 ### [水泳と大会での経験 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
 
@@ -123,7 +128,12 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png" width="420" alt="水泳・ライフセービングの参加記録"></a>
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>原本の閲覧用画像</th><th>非公式の日本語訳</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="原本の閲覧用画像"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png" width="300" alt="非公式の日本語訳"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
 
 [スピーチとプレゼンテーション 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.ja.md) · [水泳と大会での経験 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.ja.md)
 <!-- CREDENTIALS_SHOWCASE_END -->
@@ -226,7 +236,12 @@ Visual Animation Tutorial の執筆に対し、マラーゲの教育行政機関
 
 > 最初のアニメーションの 1 コマから、本の執筆へ。そしてクエストログに感謝状が加わりました。📚✨
 
-<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="見やすく整えた画像"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png" width="245" alt="非公式の日本語訳"></a></p>
+<!-- DOCUMENT_PAIR_BOOK_START -->
+<table>
+<tr><th>原本の閲覧用画像</th><th>非公式の日本語訳</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="300" alt="原本の閲覧用画像"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png" width="300" alt="非公式の日本語訳"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_BOOK_END -->
 
 [感謝状と翻訳を読む](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.ja.md) · [元の写真](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [非公式の日本語訳](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.ja.png)
 <!-- BOOK_RECOGNITION_END -->

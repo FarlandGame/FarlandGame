@@ -113,7 +113,12 @@
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/speaking-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.fa.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="420" alt="شمارهٔ ملی برای انتشار عمومی پوشانده شده است"></a>
+<!-- DOCUMENT_PAIR_SPEAKING_START -->
+<table>
+<tr><th>عکس واقعی مدرک · نسخهٔ عمومی</th><th>نسخهٔ خوانای انگلیسی · غیررسمی</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="300" alt="عکس واقعی مدرک · نسخهٔ عمومی"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png" width="300" alt="نسخهٔ خوانای انگلیسی · غیررسمی"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_SPEAKING_END -->
 
 ### [شنا و تجربهٔ مسابقه 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fa.md)
 
@@ -123,7 +128,12 @@
 
 <a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming-sticker.svg" width="65" alt=""></a>
 
-<a href="https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fa.md"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="420" alt="سوابق شرکت در رویدادهای شنا و نجات غریق"></a>
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>عکس واقعی مدرک · نسخهٔ عمومی</th><th>نسخهٔ خوانای انگلیسی · غیررسمی</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="عکس واقعی مدرک · نسخهٔ عمومی"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.en.png" width="300" alt="نسخهٔ خوانای انگلیسی · غیررسمی"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
 
 [فن بیان و مهارت ارائه 🎤](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/public-speaking.fa.md) · [شنا و تجربهٔ مسابقه 🏊](https://github.com/FarlandGame/FarlandGame/blob/main/docs/credentials/swimming.fa.md)
 <!-- CREDENTIALS_SHOWCASE_END -->
@@ -226,7 +236,12 @@
 
 > از اولین فریم انیمیشن تا یک کتاب؛ حالا یک تقدیرنامه هم به فهرست مأموریت‌ها اضافه شد! 📚✨
 
-<p><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="245" alt="نسخهٔ تمیزشده برای مشاهده"></a> <a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png" width="245" alt="ترجمهٔ غیررسمی انگلیسی"></a></p>
+<!-- DOCUMENT_PAIR_BOOK_START -->
+<table>
+<tr><th>عکس واقعی مدرک · نسخهٔ عمومی</th><th>نسخهٔ خوانای انگلیسی · غیررسمی</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-cleaned.jpg" width="300" alt="عکس واقعی مدرک · نسخهٔ عمومی"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/book-translation.en.png" width="300" alt="نسخهٔ خوانای انگلیسی · غیررسمی"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_BOOK_END -->
 
 [متن تقدیرنامه و ترجمه را بخوانید](https://github.com/FarlandGame/Visual-Animation-Tutorial/blob/main/docs/recognition.fa.md) · [عکس اصلی](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-original.jpg) · [ترجمهٔ غیررسمی انگلیسی](https://raw.githubusercontent.com/FarlandGame/Visual-Animation-Tutorial/main/assets/recognition/certificate-english-unofficial.png)
 <!-- BOOK_RECOGNITION_END -->

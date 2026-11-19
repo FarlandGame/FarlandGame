@@ -1,13 +1,18 @@
 # 水泳と大会での経験 🏊
 
-<!-- LOCALIZED_READING -->
-非公式の日本語訳。原本の閲覧用画像も下に掲載しています。
+<!-- DOCUMENT_PAIR_LIFESAVING_START -->
+<table>
+<tr><th>原本の閲覧用画像</th><th>非公式の日本語訳</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg" width="300" alt="原本の閲覧用画像"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png" width="300" alt="非公式の日本語訳"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_LIFESAVING_END -->
 
-![非公式の日本語訳。原本の閲覧用画像も下に掲載しています。](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png)
-
-![非公式の日本語訳。原本の閲覧用画像も下に掲載しています。](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png)
-<!-- LOCALIZED_READING_END -->
-
+<!-- DOCUMENT_PAIR_FESTIVAL_START -->
+<table>
+<tr><th>原本の閲覧用画像</th><th>非公式の日本語訳</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg" width="300" alt="原本の閲覧用画像"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png" width="300" alt="非公式の日本語訳"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_FESTIVAL_END -->
 
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/ja/credentials-sticker.svg" width="86" alt="Credentials">
@@ -31,11 +36,11 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 
 上側の書類には、1403年の第1回Nedaye Omid Festivalライフセービング競技への参加が記録されています。宛名は個人名ではなく「選手の皆様へ」に相当する表現です。手書きの郡名は確実に判読できず、不鮮明な署名の詳細や小さな装飾用の引用文も再構成していません。これは参加記録であり、職業上のライフガード資格ではありません。
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-preview.jpg" width="700" alt="閲覧用にトリミングした画像"></a>
+
 
 ### 読みやすい非公式の日本語訳
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/lifesaving-translation.ja.png" width="700" alt="読みやすい非公式の日本語訳"></a>
+
 
 ## 水泳フェスティバルへの参加
 
@@ -49,11 +54,11 @@ MaraghehのRasad Poolで行われた水泳大会で1位になったと記憶し�
 | 原本に記載された会場 | Athar Pool (اطهر), Maragheh |
 | 原本に記名された署名者 | Mohammad Khorsandi · محمد خرسندی |
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-viewing-copy.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-preview.jpg" width="700" alt="閲覧用にトリミングした画像"></a>
+
 
 ### 読みやすい非公式の日本語訳
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/swimming/festival-translation.ja.png" width="700" alt="読みやすい非公式の日本語訳"></a>
+
 
 翻訳画像は、原本の判読できる文章を訳したもので、非公式であることを目立つ形で示しています。タイプされた名前は原本の署名に代わるものではありません。公式の印章、署名、メダルは生成していません。日付はヒジュラ太陽暦のままです。
 

@@ -1,5 +1,12 @@
 # فن بیان و مهارت ارائه 🎤
 
+<!-- DOCUMENT_PAIR_SPEAKING_START -->
+<table>
+<tr><th>عکس واقعی مدرک · نسخهٔ عمومی</th><th>نسخهٔ خوانای انگلیسی · غیررسمی</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="300" alt="عکس واقعی مدرک · نسخهٔ عمومی"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.en.png" width="300" alt="نسخهٔ خوانای انگلیسی · غیررسمی"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_SPEAKING_END -->
+
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/fa/credentials-sticker.svg" width="86" alt="Credentials">
 
@@ -35,7 +42,7 @@
 
 **شمارهٔ ملی برای انتشار عمومی پوشانده شده است**
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="700" alt="نسخهٔ عمومیِ تصویر مدرک"></a>
+
 
 [نسخهٔ عمومیِ تصویر مدرک](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/public-speaking/source-public-redacted.png)
 
@@ -43,7 +50,7 @@
 
 تصویر انگلیسی جدید، رونویسی خواناتری است که به‌روشنی برچسب غیررسمی دارد؛ نسخهٔ رسمیِ دوباره‌صادرشده نیست. هیچ امضا یا مهر آکادمی بازسازی نشده است. نشان تزئینیِ عمومیِ جایزه روی اصل مدرک، به‌تنهایی نشان‌دهندهٔ جایزهٔ جداگانهٔ مسابقه یا صلاحیت تدریس نیست.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/english-unofficial.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/english-unofficial.png" width="700" alt="نسخهٔ خوانای انگلیسیِ غیررسمی"></a>
+
 
 [یادداشت‌های خوانش و منشأ مدارک](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/public-speaking/PROVENANCE.json)
 

@@ -1,11 +1,11 @@
 # Ораторское мастерство и презентации 🎤
 
-<!-- LOCALIZED_READING -->
-Неофициальный русский перевод. Ниже сохранены исходные документы.
-
-![Неофициальный русский перевод. Ниже сохранены исходные документы.](https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png)
-<!-- LOCALIZED_READING_END -->
-
+<!-- DOCUMENT_PAIR_SPEAKING_START -->
+<table>
+<tr><th>Исходный документ · копия для просмотра</th><th>Неофициальный русский перевод</th></tr>
+<tr><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="300" alt="Исходный документ · копия для просмотра"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png" width="300" alt="Неофициальный русский перевод"></a></td></tr>
+</table>
+<!-- DOCUMENT_PAIR_SPEAKING_END -->
 
 <!-- CREDENTIAL_STICKER -->
 <img src="../../assets/showcase/ru/credentials-sticker.svg" width="86" alt="Credentials">
@@ -42,7 +42,7 @@
 
 **Национальный идентификационный номер скрыт для публичного размещения**
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/source-public-redacted.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/preview-public-redacted.jpg" width="700" alt="Публичное изображение исходного документа"></a>
+
 
 [Публичное изображение исходного документа](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/public-speaking/source-public-redacted.png)
 
@@ -50,7 +50,7 @@
 
 Новое изображение на русском — явно обозначенная неофициальная перепечатка для удобства чтения, а не официальный повторно выданный документ. Подпись и печать академии не воссоздавались. Декоративная эмблема награды на исходном документе не подтверждает отдельный приз в конкурсе или преподавательскую квалификацию.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/credentials/public-speaking/speaking-translation.ru.png" width="700" alt="Неофициальная русская версия для чтения"></a>
+
 
 [Примечания к прочтению и происхождение](https://github.com/FarlandGame/FarlandGame/blob/main/assets/credentials/public-speaking/PROVENANCE.json)
 
